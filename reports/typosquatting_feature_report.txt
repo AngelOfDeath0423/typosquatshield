@@ -1,0 +1,25 @@
+TYPOSQUATSHIELD - TYPOSQUATTING FEATURE REPORT
+=================================================================
+Input records: 4510
+Output records: 4510
+Reference packages: 100
+New features: 5
+
+GROUP FEATURE MEANS:
+                                 typo_min_edit_distance  typo_max_similarity  typo_potential_match  typo_close_match_count  typo_reference_length
+candidate_group                                                                                                                                  
+openssf_exact_version_candidate                  7.5858               0.3888                0.0341                  0.0341                 7.8470
+presumed_legitimate                              9.6931               0.3543                0.0058                  0.0062                 8.8257
+
+POTENTIAL TYPO MATCHES BY GROUP:
+                                 sum  count
+candidate_group                            
+openssf_exact_version_candidate   77   2255
+presumed_legitimate               13   2255
+
+LIMITATIONS:
+Reference list contains only 100 packages.
+Reference-list historical availability is not yet verified.
+Similarity does not establish maliciousness.
+Candidate-group labels remain provisional.
+No final model evaluation is performed here.

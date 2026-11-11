@@ -1,0 +1,35 @@
+{
+  "requested_package": "requests",
+  "normalized_name": "requests",
+  "requested_version": "2.31.0",
+  "resolution_status": "resolved",
+  "artifact_count": 2,
+  "artifacts": [
+    {
+      "filename": "requests-2.31.0-py3-none-any.whl",
+      "artifact_type": "wheel",
+      "packagetype": "bdist_wheel",
+      "download_url": "https://files.pythonhosted.org/packages/70/8e/0e2d847013cb52cd35b38c009bb167a1a26b2ce6cd6965bf26b47bc0bf44/requests-2.31.0-py3-none-any.whl",
+      "size_bytes": 62574,
+      "sha256": "58cd2187c01e70e6e26505bca751777aa9f2ee0b7f4300988b709f44e013003f",
+      "upload_time_iso_8601": "2023-05-22T15:12:42.313790Z",
+      "yanked": false,
+      "yanked_reason": null,
+      "has_sha256": true
+    },
+    {
+      "filename": "requests-2.31.0.tar.gz",
+      "artifact_type": "sdist_tar_gz",
+      "packagetype": "sdist",
+      "download_url": "https://files.pythonhosted.org/packages/9d/be/10918a2eac4ae9f02f6cfe6414b7a155ccd8f7f9d4380d62fd5b955065c3/requests-2.31.0.tar.gz",
+      "size_bytes": 110794,
+      "sha256": "942c5a758f98d790eaed1a29cb6eefc7ffb0d1cf7af05c3d2791656dbd6ad1e1",
+      "upload_time_iso_8601": "2023-05-22T15:12:44.175995Z",
+      "yanked": false,
+      "yanked_reason": null,
+      "has_sha256": true
+    }
+  ],
+  "error": null,
+  "resolved_at_utc": "2026-11-08T03:30:29.639274+00:00"
+}

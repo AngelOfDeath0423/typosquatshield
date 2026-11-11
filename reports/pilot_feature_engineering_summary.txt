@@ -1,0 +1,30 @@
+TYPOSQUATSHIELD - PILOT FEATURE ENGINEERING
+============================================================
+Total records: 219
+Unique packages: 100
+Reference names: 100
+Duplicate package-version pairs: 0
+
+FEATURE NULL COUNTS:
+name_length: 0
+digit_count: 0
+hyphen_count: 0
+has_digits: 0
+name_entropy: 0
+name_token_count: 0
+max_name_similarity: 0
+min_edit_distance: 0
+damerau_distance: 0
+is_exact_reference_match: 0
+potential_typosquat: 0
+summary_missing: 0
+summary_length: 0
+requires_python_missing: 0
+
+IMPORTANT:
+Features are for pilot pipeline testing only.
+Similarity reference list is not historically validated.
+Similarity thresholds are experimental.
+No malware labels are assigned.
+No model training is performed.
+OpenSSF evidence fields are excluded from features.

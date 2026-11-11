@@ -1,0 +1,18 @@
+TYPOSQUATSHIELD - VERSION RANGE VALIDATION
+============================================================
+Historical records: 33945
+Reports with range evidence: 6410
+Invalid range JSON: 0
+
+EVIDENCE CATEGORIES:
+insufficient_version_evidence: 16488
+explicit_version_evidence: 10513
+range_supported_evidence: 6944
+
+Range-matched records: 7025
+Ambiguous evaluations: 0
+
+LIMITATIONS:
+Open-ended ranges are report claims, not verified malware.
+Exact version matches are report associations.
+No final binary ML labels have been assigned.

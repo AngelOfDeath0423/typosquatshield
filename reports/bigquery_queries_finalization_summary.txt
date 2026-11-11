@@ -1,0 +1,44 @@
+TYPOSQUATSHIELD - BIGQUERY QUERY FINALIZATION
+============================================================
+Tracked batches: 24
+Generated SQL files: 22
+Skipped exported batches: 2
+Errors: 0
+
+GENERATED:
+batch_003
+batch_004
+batch_005
+batch_006
+batch_007
+batch_008
+batch_009
+batch_010
+batch_011
+batch_012
+batch_013
+batch_014
+batch_015
+batch_016
+batch_017
+batch_018
+batch_019
+batch_020
+batch_021
+batch_022
+batch_023
+batch_024
+
+SKIPPED:
+batch_001
+batch_002
+
+ERRORS:
+None
+
+IMPORTANT:
+Exported batches were not modified.
+The collection tracker was not modified.
+No BigQuery queries were executed.
+Normalized package-version grouping is used.
+Historical metadata is not malware ground truth.

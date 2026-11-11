@@ -1,0 +1,7 @@
+﻿feature,category,role,temporal_status,available_count,missing_count,availability_percent,column_exists
+package_name,name,feature_source,available_from_package_name,219,0,100.0,True
+version,version,feature_source,available_from_requested_version,219,0,100.0,True
+summary,metadata,feature_candidate,historical_snapshot_not_proven,153,66,69.86,True
+requires_python,metadata,feature_candidate,historical_snapshot_not_proven,181,38,82.65,True
+distribution_file_count,release_metadata,feature_candidate,release_level_verify_definition,219,0,100.0,True
+first_upload_time,time,feature_source,requires_assessment_timestamp,219,0,100.0,True

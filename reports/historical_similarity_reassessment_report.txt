@@ -1,0 +1,44 @@
+TYPOSQUATSHIELD - HISTORICAL SIMILARITY REASSESSMENT
+=================================================================
+Candidate records: 4410
+Reference packages: 100
+Valid reference timestamps: 100
+
+REFERENCE COVERAGE
+Candidates with zero supported references: 0
+Candidates with at least one supported reference: 4410
+Candidates with all 100 supported references: 4065
+
+ELIGIBLE REFERENCE DISTRIBUTION
+count    4410.000000
+mean       99.736961
+std         1.351803
+min        76.000000
+25%       100.000000
+50%       100.000000
+75%       100.000000
+max       100.000000
+
+ORIGINAL POTENTIAL TYPO MATCHES BY GROUP
+candidate_group
+openssf_exact_version_candidate    76
+presumed_legitimate                13
+
+HISTORICALLY SUPPORTED MATCHES BY GROUP
+                                 records  mean_eligible_references  historical_typo_matches
+candidate_group                                                                            
+openssf_exact_version_candidate     2205                   99.7642                       76
+presumed_legitimate                 2205                   99.7098                       13
+
+COMPARISON
+Changed potential-typo indicators: 0
+
+LIMITATIONS
+Evidence comes from currently retained PyPI files.
+Earliest retained upload time may be later than original publication.
+References without earlier evidence remain unresolved.
+Historical popularity and trust are unverified.
+Original similarity features are preserved.
+Candidate-group labels remain provisional.
+This is not verified malware-detection performance.
+No model training was performed.

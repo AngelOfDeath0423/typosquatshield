@@ -1,0 +1,47 @@
+TYPOSQUATSHIELD - FULL MALICIOUS MANIFEST
+============================================================
+Raw OpenSSF rows: 17121
+Reviewed OpenSSF rows: 17121
+Manifest rows: 17121
+Unique packages: 11798
+Unique reports: 11798
+Duplicate evidence rows: 0
+
+VERSION EVIDENCE TYPES:
+affected_range: 6372
+explicit_and_range: 81
+explicit_version: 10668
+
+LABEL STATUS COUNTS:
+candidate_malicious: 14966
+needs_review: 2155
+
+VALIDATION COUNTS:
+Invalid report IDs: 0
+Invalid affected ranges: 0
+Invalid package names: 0
+Non-PyPI rows: 0
+
+SOURCE VERSION:
+Dataset: OpenSSF Malicious Packages
+Repository: https://github.com/ossf/malicious-packages
+Ecosystem: PyPI
+Git commit: 3812671bee8aa766a40bcdf9ee322d7c6456cf29
+
+Total extracted records: 17121
+Unique packages: 11798
+Candidate malicious packages: 10654
+Packages requiring review: 1144
+
+Label status: Provisional; not yet verified ground truth.
+
+Raw CSV SHA256: ae47259acdb2519e6f951aa177e64db8f6f7bfa77456539219abedc8a7471c33
+Reviewed CSV SHA256: 9161f138826ffba184e6611f0afbcf73832a4a925460937238c56f7f6a33079b
+
+IMPORTANT:
+This is a candidate evidence manifest.
+It is not a verified binary ML training dataset.
+Package names alone do not prove version-level maliciousness.
+Affected ranges require OSV-aware evaluation.
+Withdrawn/disputed reports require separate handling.
+No malicious package artifacts were downloaded.

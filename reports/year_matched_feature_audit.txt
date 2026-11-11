@@ -1,0 +1,35 @@
+TYPOSQUATSHIELD - FEATURE QUALITY AUDIT
+=================================================================
+Records: 4510
+Unique packages: 4510
+Features: 9
+
+FEATURE MEANS BY CANDIDATE GROUP:
+                                 name_length  name_separator_count  name_digit_count  version_is_prerelease  summary_length  summary_word_count  summary_missing  requires_python_missing  requires_python_specified
+candidate_group                                                                                                                                                                                                     
+openssf_exact_version_candidate       11.861                 0.549             0.314                  0.005          36.739               4.824            0.146                    0.568                      0.432
+presumed_legitimate                   14.209                 1.082             0.227                  0.067          55.706               8.061            0.075                    0.219                      0.781
+
+FEATURE MEDIANS BY CANDIDATE GROUP:
+                                 name_length  name_separator_count  name_digit_count  version_is_prerelease  summary_length  summary_word_count  summary_missing  requires_python_missing  requires_python_specified
+candidate_group                                                                                                                                                                                                     
+openssf_exact_version_candidate         11.0                   0.0               0.0                    0.0            31.0                 4.0              0.0                      1.0                        0.0
+presumed_legitimate                     12.0                   1.0               0.0                    0.0            49.0                 7.0              0.0                      0.0                        1.0
+
+MISSING METADATA RATES:
+openssf_exact_version_candidate:
+  Missing summary: 14.59%
+  Missing requires_python: 56.81%
+presumed_legitimate:
+  Missing summary: 7.45%
+  Missing requires_python: 21.91%
+
+REDUNDANCY CHECK:
+requires_python_specified is the inverse of
+requires_python_missing; retain only one for modeling.
+
+LIMITATIONS:
+Differences between groups may reflect selection bias.
+OpenSSF candidates are not verified malware labels.
+Presumed legitimate packages are not verified benign.
+Feature quality alone does not validate model accuracy.

@@ -1,0 +1,40 @@
+TYPOSQUATSHIELD - BATCH STATIC FEATURE REPORT
+=================================================================
+Artifact inventory records: 94
+Processed inventory records: 94
+Complete scans: 89
+
+SCAN STATUS
+scan_status
+complete    89
+partial      5
+
+SCAN STATUS BY CANDIDATE GROUP
+scan_status                      complete  partial
+candidate_group                                   
+openssf_exact_version_candidate         8        0
+presumed_legitimate                    81        5
+
+FEATURE TOTALS FOR COMPLETE SCANS
+static_python_files            2991.0
+static_network_imports          236.0
+static_process_imports           40.0
+static_file_imports             246.0
+static_network_calls            666.0
+static_process_calls            209.0
+static_file_calls               398.0
+static_decode_calls              28.0
+static_long_encoded_strings       4.0
+static_parse_errors               0.0
+
+LIMITATIONS
+Artifacts are downloaded but never installed or executed.
+SHA-256 is checked against the inventory metadata.
+Only approved PyPI artifact URLs are accepted.
+Archives are processed by the existing scanner.
+Partial scans are excluded from complete feature totals.
+Source-level static indicators are not malware proof.
+Scanner limits do not guarantee complete sandbox isolation.
+Use an isolated environment for untrusted artifacts.
+Candidate labels remain provisional.
+No ML training performed.

@@ -1,0 +1,30 @@
+TYPOSQUATSHIELD - PACKAGE-LEVEL STATIC FEATURE REPORT
+=================================================================
+Archive scan records: 94
+Complete archive scans: 89
+Selected package versions: 55
+Candidate records: 4410
+Candidates with static features: 55
+Candidates without static features: 4355
+
+STATIC COVERAGE BY CANDIDATE GROUP
+                                 sum  count    mean
+candidate_group                                    
+openssf_exact_version_candidate    5   2205  0.0023
+presumed_legitimate               50   2205  0.0227
+
+SELECTED ARTIFACT TYPES
+candidate_group                  selected_static_artifact_type
+openssf_exact_version_candidate  sdist_tar_gz                      5
+presumed_legitimate              sdist_tar_gz                     42
+                                 wheel                             8
+
+LIMITATIONS
+One complete archive is selected per package version.
+Source distributions are preferred over wheels.
+Partial scans are excluded.
+Missing static features remain missing.
+Current artifact availability may introduce selection bias.
+Static indicators are not proof of maliciousness.
+Candidate-group labels remain provisional.
+No ML training performed.

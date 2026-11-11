@@ -1,0 +1,26 @@
+TYPOSQUATSHIELD - PILOT ML DATASET
+============================================================
+Total records: 219
+Unique packages: 100
+Duplicate package-version pairs: 0
+
+TRAINING ELIGIBILITY:
+candidate_for_review: 130
+temporal_review_required: 17
+evidence_review_required: 0
+insufficient_version_evidence: 72
+
+OPENSSF EVIDENCE:
+explicit_version_match: 95
+range_affected_candidate: 52
+range_unresolved: 0
+no_confirmed_affected_version: 72
+
+IMPORTANT:
+This is a pilot dataset, not a finalized ML training set.
+Candidate records still require label-quality review.
+Unmatched versions are not assumed benign.
+Post-publication versions require temporal review.
+Report IDs and publication dates are audit fields,
+not predictive ML features.
+No binary labels have been assigned.

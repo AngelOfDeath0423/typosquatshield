@@ -1,0 +1,21 @@
+TYPOSQUATSHIELD - FEATURE VALIDATION
+============================================================
+Feature records: 219
+Source records: 219
+Reference names: 100
+Failed feature rows: 0
+
+KNOWN EXAMPLE TESTS:
+levenshtein_requests_typo: PASS
+damerau_requests_typo: PASS
+exact_similarity: PASS
+nonnegative_distance: PASS
+normalized_package_name: PASS
+
+OVERALL VALIDATION: PASS
+
+IMPORTANT:
+This verifies consistency with feature definitions.
+It does not validate the reference list historically.
+It does not establish predictive effectiveness.
+No malicious or benign labels are assigned.

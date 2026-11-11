@@ -1,0 +1,22 @@
+TYPOSQUATSHIELD - ORIGINAL OPENSSF REPORT AUDIT
+============================================================
+Git snapshot: 3812671bee8aa766a40bcdf9ee322d7c6456cf29
+Historical records: 219
+Original reports loaded: 100
+Report read errors: 0
+
+Status agreements: 219
+Status disagreements: 0
+
+ORIGINAL REPORT EVIDENCE:
+explicit_version_match: 95
+range_affected_candidate: 52
+range_unresolved: 0
+no_confirmed_affected_version: 72
+
+NOTES:
+Agreement checks consistency with the original JSON.
+Agreement does not independently verify maliciousness.
+A missing affected-version match is not a benign label.
+No package artifacts were downloaded or executed.
+No records are automatically marked label_verified=True.

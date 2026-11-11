@@ -1,0 +1,52 @@
+TYPOSQUATSHIELD - ML CANDIDATE DATE AUDIT
+============================================================
+
+GROUP: openssf_exact_version_candidate
+Records: 3820
+Earliest upload: 2017-01-08 15:33:21.180022+00:00
+Latest upload: 2026-10-12 00:54:57.586969+00:00
+Median upload year: 2024.0
+
+YEAR DISTRIBUTION:
+upload_year
+2017       3
+2018       4
+2019       4
+2020      22
+2021      51
+2022     220
+2023    1190
+2024     758
+2025     661
+2026     907
+
+GROUP: presumed_legitimate
+Records: 3820
+Earliest upload: 2005-12-15 09:54:12+00:00
+Latest upload: 2026-10-28 03:56:55.464402+00:00
+Median upload year: 2023.0
+
+YEAR DISTRIBUTION:
+upload_year
+2005      1
+2006      1
+2007      5
+2008      4
+2009      7
+2010     16
+2011     28
+2012     30
+2013     35
+2014     55
+2015     81
+2016     99
+2017    100
+2018    162
+2019    203
+2020    320
+2021    370
+2022    352
+2023    424
+2024    372
+2025    471
+2026    684

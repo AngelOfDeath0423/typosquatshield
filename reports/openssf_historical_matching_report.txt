@@ -1,0 +1,17 @@
+TYPOSQUATSHIELD - OPENSSF EVIDENCE MATCHING
+============================================================
+Historical records: 33945
+OpenSSF evidence records: 17121
+Exact report-match rows: 10513
+Unique exact package-version matches: 10513
+
+EVIDENCE CATEGORIES:
+name_level_only: 23432
+exact_version_reported: 10513
+
+IMPORTANT LIMITATIONS:
+Exact version matches are evidence associations.
+Withdrawn reports require separate review.
+Name-only matches do not prove version-level risk.
+Affected version ranges are not evaluated here.
+No ML ground-truth labels were assigned.

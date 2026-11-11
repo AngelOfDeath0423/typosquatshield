@@ -1,0 +1,11 @@
+Dataset: OpenSSF Malicious Packages
+Repository: https://github.com/ossf/malicious-packages
+Ecosystem: PyPI
+Git commit: 3812671bee8aa766a40bcdf9ee322d7c6456cf29
+
+Total extracted records: 17121
+Unique packages: 11798
+Candidate malicious packages: 10654
+Packages requiring review: 1144
+
+Label status: Provisional; not yet verified ground truth.

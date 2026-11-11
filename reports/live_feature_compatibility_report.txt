@@ -1,0 +1,119 @@
+TYPOSQUATSHIELD - LIVE FEATURE COMPATIBILITY AUDIT
+=================================================================
+Model: D2_short_age_missing
+Expected features: 16
+Training source: C:\Users\TP074320\Desktop\fyp-building-phase\data\features\version_aware_combined_features.csv
+Training records: 4410
+
+MODEL FEATURE ALIGNMENT
+Model metadata and inference feature order: PASS
+Model metadata and live feature order: PASS
+
+CANDIDATE GROUP DISTRIBUTION
+candidate_group
+openssf_exact_version_candidate    2205
+presumed_legitimate                2205
+
+HISTORICAL FEATURE DISTRIBUTIONS
+
+Feature: summary_length
+Missing: 0
+Mean: 46.7580
+Median: 40.0000
+Minimum: 0
+Maximum: 456
+
+Feature: summary_word_count
+Missing: 0
+Mean: 6.5379
+Median: 6.0000
+Minimum: 0
+Maximum: 80
+
+Feature: summary_missing
+Missing: 0
+Mean: 0.1088
+Median: 0.0000
+Minimum: 0
+Maximum: 1
+
+Feature: requires_python_missing
+Missing: 0
+Mean: 0.3878
+Median: 0.0000
+Minimum: 0
+Maximum: 1
+
+Feature: typo_min_edit_distance
+Missing: 0
+Mean: 8.6478
+Median: 7.0000
+Minimum: 1
+Maximum: 133
+
+Feature: typo_max_similarity
+Missing: 0
+Mean: 0.3715
+Median: 0.3571
+Minimum: 0.0
+Maximum: 0.9090909090909092
+
+Feature: typo_potential_match
+Missing: 0
+Mean: 0.0202
+Median: 0.0000
+Minimum: 0
+Maximum: 1
+
+Feature: typo_close_match_count
+Missing: 0
+Mean: 0.0204
+Median: 0.0000
+Minimum: 0
+Maximum: 2
+
+Feature: typo_reference_length
+Missing: 0
+Mean: 8.3317
+Median: 8.0000
+Minimum: 3
+Maximum: 18
+
+Feature: prior_release_count
+Missing: 0
+Mean: 4.8982
+Median: 0.0000
+Minimum: 0
+Maximum: 1707
+
+Feature: has_prior_history
+Missing: 0
+Mean: 0.3551
+Median: 0.0000
+Minimum: 0
+Maximum: 1
+
+Feature: observed_package_age_days
+Missing: 2844
+Mean: 132.2703
+Median: 0.7479
+Minimum: 1.4596643518518518e-05
+Maximum: 5541.950943746851
+
+COMPATIBILITY CHECKLIST
+
+1. Confirm identical name normalization.
+2. Confirm summary handling and whitespace rules.
+3. Confirm requires_python missing-value conventions.
+4. Confirm similarity reference list and exact-match handling.
+5. Confirm similarity defaults when no close match exists.
+6. Confirm historical and live release counting units.
+7. Confirm age cutoff and assessment timestamp semantics.
+8. Confirm missing-value imputation and indicator behavior.
+
+IMPORTANT LIMITATIONS
+Historical and live PyPI data may have different coverage.
+Descriptive statistics do not prove feature equivalence.
+Candidate-group labels are provisional.
+No verified malware-risk calibration is established.
+No model retraining or export performed.

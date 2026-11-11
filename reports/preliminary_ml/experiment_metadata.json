@@ -1,0 +1,33 @@
+{
+  "target": "candidate_group_membership",
+  "verified_malware_detection": false,
+  "seed": 42,
+  "train_records": 3382,
+  "test_records": 1128,
+  "experiments": {
+    "full": [
+      "name_length",
+      "name_separator_count",
+      "name_digit_count",
+      "version_is_prerelease",
+      "summary_length",
+      "summary_word_count",
+      "summary_missing",
+      "requires_python_missing"
+    ],
+    "reduced": [
+      "name_length",
+      "name_separator_count",
+      "name_digit_count",
+      "summary_length",
+      "summary_word_count"
+    ]
+  },
+  "limitations": [
+    "Candidate-group labels are provisional.",
+    "Negative candidates are not verified benign.",
+    "Sampling and metadata selection biases remain.",
+    "The split is random, not a future-time holdout.",
+    "Results are not operational malware detection metrics."
+  ]
+}

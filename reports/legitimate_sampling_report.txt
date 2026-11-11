@@ -1,0 +1,18 @@
+TYPOSQUATSHIELD - LEGITIMATE SAMPLING REPORT
+============================================================
+Candidate pool: 104618
+Selected candidates: 10000
+Random seed: 42
+
+HISTORY GROUPS:
+short_history: 2500
+medium_history: 2500
+long_history: 2500
+very_short_history: 2500
+
+LIMITATIONS:
+These are presumed legitimate candidates.
+OpenSSF absence is not proof of benignness.
+Version count is not a popularity measure.
+Selection is stratified, not population-proportional.
+Historical feature comparability requires review.

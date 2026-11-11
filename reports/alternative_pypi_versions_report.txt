@@ -1,0 +1,23 @@
+TYPOSQUATSHIELD - ALTERNATIVE PYPI VERSION AUDIT
+=================================================================
+Unavailable candidate versions checked: 62
+
+PROJECT STATUS BY GROUP
+project_status                   available  project_not_found
+candidate_group                                              
+openssf_exact_version_candidate          0                 55
+presumed_legitimate                      4                  3
+
+ALTERNATIVE VERSION AVAILABILITY
+alternative_versions_available   False  True 
+candidate_group                              
+openssf_exact_version_candidate     55      0
+presumed_legitimate                  3      4
+
+LIMITATIONS
+This audit queries the current public PyPI JSON API.
+Alternative versions are not equivalent to selected versions.
+Missing projects do not prove maliciousness.
+Deleted or unavailable releases may be absent from the API.
+No package archives were downloaded or executed.
+No ML features or labels were modified.

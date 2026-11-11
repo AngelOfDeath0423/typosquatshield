@@ -1,0 +1,41 @@
+TYPOSQUATSHIELD - VERSION-AWARE SIMILARITY REPORT
+=================================================================
+Input records: 4410
+Output records: 4410
+Unique packages: 4410
+Matched pairs: 2205
+Reference packages: 100
+
+ENGINEERED FEATURE COUNTS
+Metadata features: 8
+Reputation features: 5
+Similarity features: 5
+Total engineered features: 18
+
+SIMILARITY FEATURE MEANS BY GROUP
+                                 typo_min_edit_distance  typo_max_similarity  typo_potential_match  typo_close_match_count  typo_reference_length
+candidate_group                                                                                                                                  
+openssf_exact_version_candidate                  7.6086               0.3886                0.0345                  0.0345                 7.8467
+presumed_legitimate                              9.6871               0.3544                0.0059                  0.0063                 8.8168
+
+POTENTIAL TYPO MATCHES BY GROUP
+                                 sum  count
+candidate_group                            
+openssf_exact_version_candidate   76   2205
+presumed_legitimate               13   2205
+
+VALIDATION
+Input record count: PASS
+Package uniqueness: PASS
+Matched-pair count: PASS
+Both groups represented in every pair: PASS
+Similarity feature completeness: PASS
+Metadata/reputation columns preserved: PASS
+
+LIMITATIONS
+Reference list contains curated package names only.
+Historical reference availability is not verified.
+Similarity does not establish maliciousness.
+Candidate-group labels remain provisional.
+Historical metadata timing requires further review.
+No ML training performed.

@@ -1,0 +1,38 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+~$*.docx
+/docs/reports/*
+!/docs/reports/README.md
+/tmp/
+# Python generated files
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*credentials*.json
+*service-account*.json
+*.pem
+*.key
+
+# Large historical datasets
+data/full/historical_exports/
+data/legitimate/historical_batches/
+data/full/historical_metadata_consolidated.csv
+data/legitimate/legitimate_historical_consolidated.csv
+data/legitimate/bigquery_legitimate_candidate_pool.csv

@@ -1,0 +1,38 @@
+TYPOSQUATSHIELD - VERSION-AWARE METADATA REPORT
+=================================================================
+Input records: 4410
+Output records: 4410
+Unique packages: 4410
+Matched pairs: 2205
+Metadata features: 8
+Reputation features preserved: 5
+
+METADATA FEATURE MEANS BY GROUP
+                                 name_length  name_separator_count  name_digit_count  version_is_prerelease  summary_length  summary_word_count  summary_missing  requires_python_missing
+candidate_group                                                                                                                                                                          
+openssf_exact_version_candidate      11.8907                0.5533            0.3147                 0.0041         36.9728              4.8966           0.1483                   0.5624
+presumed_legitimate                  14.1977                1.0776            0.2231                 0.0685         56.5433              8.1791           0.0694                   0.2132
+
+FEATURE LIST
+name_length
+name_separator_count
+name_digit_count
+version_is_prerelease
+summary_length
+summary_word_count
+summary_missing
+requires_python_missing
+
+VALIDATION
+Package uniqueness: PASS
+Matched-pair count: PASS
+Metadata feature validity: PASS
+Reputation feature preservation: PASS
+
+LIMITATIONS
+Candidate groups remain provisional.
+Metadata availability at assessment time
+has not been independently verified.
+Invalid version strings are assigned
+version_is_prerelease=0 and need separate review.
+No ML training performed.

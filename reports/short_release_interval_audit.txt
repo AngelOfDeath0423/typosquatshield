@@ -1,0 +1,57 @@
+TYPOSQUATSHIELD - SHORT RELEASE INTERVAL AUDIT
+=================================================================
+Packages with prior history: 1566
+
+GROUP SUMMARY
+                                 packages  within_hour  within_day  same_version  median_interval_hours
+candidate_group                                                                                        
+openssf_exact_version_candidate       783          507         629             0                 0.3701
+presumed_legitimate                   783          229         463             0                10.9753
+
+SAME-VERSION RECORDS AMONG SHORT INTERVALS
+                                 sum  count
+candidate_group                            
+openssf_exact_version_candidate    0    507
+presumed_legitimate                0    229
+
+FIRST 30 SHORTEST INTERVALS
+                      normalized_name                 candidate_group selected_version previous_version  interval_hours  same_version_as_previous  previous_distribution_file_count
+chaquopy-stubs-androidx-core-core-ktx             presumed_legitimate     0.3.20260401     0.2.20260401          0.0003                         0                                 2
+                  numpy-typing-compat             presumed_legitimate     2.3.20250726     2.2.20250726          0.0003                         0                                 2
+                          hapi-schema             presumed_legitimate      0.0.6.dev36            0.0.6          0.0003                         0                                 1
+                 pixegami-hello-arya2             presumed_legitimate            0.1.1            0.1.0          0.0004                         0                                 2
+                  reflex-mui-datagrid             presumed_legitimate            0.1.2            0.1.1          0.0004                         0                                 2
+                       dijkstra-conda             presumed_legitimate         98567413         78160439          0.0004                         0                                 1
+          ctf-q21-empire-tmp-bw126616 openssf_exact_version_candidate                1           0.0.10          0.0004                         0                                 1
+                         genvia-utils openssf_exact_version_candidate         99.99.99            6.0.2          0.0005                         0                                 2
+                         spaceandtime             presumed_legitimate            1.1.2            1.0.1          0.0005                         0                                 2
+                                 axiv             presumed_legitimate            0.0.2            0.0.1          0.0009                         0                                 2
+                  pycryptographylibv3 openssf_exact_version_candidate            1.1.0            1.0.0          0.0012                         0                                 2
+                     rapid-innovation             presumed_legitimate            0.4.0            0.1.0          0.0012                         0                                 3
+                          aiolrucache openssf_exact_version_candidate            0.2.0            0.3.0          0.0014                         0                                 2
+                        pipcolorpkgv2 openssf_exact_version_candidate            1.1.0            1.0.0          0.0016                         0                                 2
+                       blackspammerbd openssf_exact_version_candidate            1.0.0              0.1          0.0018                         0                                 2
+                         ouroboros-ai             presumed_legitimate    0.38.3.dev135    0.38.3.dev134          0.0046                         0                                 2
+                       ml-data-shared openssf_exact_version_candidate           16.0.1           12.0.1          0.0058                         0                                 1
+                           mx-driving             presumed_legitimate     26.2.0.post2     26.2.0.post1          0.0060                         0                                 8
+                  aurm-desktop-client openssf_exact_version_candidate          0.39.10          0.38.11          0.0069                         0                                 1
+                             procwire openssf_exact_version_candidate            5.2.7            5.2.6          0.0092                         0                                 1
+                          sapiens-gpt             presumed_legitimate            1.0.2            1.0.1          0.0093                         0                                 2
+                              barsapi             presumed_legitimate              1.2              1.1          0.0100                         0                                 2
+   odoo-addon-website-sale-hide-price             presumed_legitimate     16.0.1.0.0.5     15.0.1.0.0.3          0.0100                         0                                 1
+          ctf-q21-empire-tmp-bw134345 openssf_exact_version_candidate            0.0.2            0.0.1          0.0101                         0                                 1
+   odoo-addon-account-invoice-facturx             presumed_legitimate       18.0.1.0.1       17.0.1.2.1          0.0113                         0                                 1
+          ctf-q21-empire-tmp-bw134347 openssf_exact_version_candidate           0.0.11           0.0.10          0.0136                         0                                 1
+                              blypack openssf_exact_version_candidate              0.5              0.4          0.0152                         0                                 2
+                        alphalend-abi openssf_exact_version_candidate            1.1.0            1.0.1          0.0152                         0                                 2
+                              pylever openssf_exact_version_candidate           1.0.12           1.0.11          0.0160                         0                                 2
+                               turbom openssf_exact_version_candidate            1.0.1            1.0.0          0.0168                         0                                 2
+
+LIMITATIONS
+Same-version matches may indicate source duplication
+or multiple historical observations.
+Different versions do not establish independent releases.
+Distribution counts alone do not establish provenance.
+Timestamp and source completeness remain unverified.
+Candidate labels are provisional.
+No model training performed.

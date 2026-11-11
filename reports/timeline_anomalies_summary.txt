@@ -1,0 +1,9 @@
+TYPOSQUATSHIELD - TIMELINE ANOMALIES
+============================================================
+Records requiring review: 17
+
+These records were uploaded after their supporting
+OpenSSF reports were published.
+
+They must not be automatically treated as invalid
+or automatically included in ML training.

@@ -1,0 +1,22 @@
+TYPOSQUATSHIELD - OPENSSF REPORT HISTORY REVIEW
+============================================================
+Anomalous records: 17
+Report-version checks: 17
+Unique packages: 6
+Pinned source commit: 3812671bee8aa766a40bcdf9ee322d7c6456cf29
+
+GIT HISTORY RESULTS:
+present_in_earliest_available_commit: 17
+added_in_later_commit: 0
+version_not_found_in_history: 0
+history_unavailable: 0
+
+INTERPRETATION:
+Git history shows when versions first appear in
+the available repository history.
+Git commit dates are not guaranteed to equal
+the actual report update or discovery dates.
+A version present in the earliest available commit
+may have existed in the report before repository import.
+No version is automatically excluded or verified.
+Manual review remains required.

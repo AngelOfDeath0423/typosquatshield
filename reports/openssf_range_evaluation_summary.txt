@@ -1,0 +1,19 @@
+TYPOSQUATSHIELD - OSV RANGE EVALUATION
+============================================================
+Historical records: 219
+Unique packages: 100
+
+EVIDENCE STATUS COUNTS:
+explicit_version_match: 95
+range_affected_candidate: 52
+range_unresolved: 0
+no_confirmed_affected_version: 72
+
+IMPORTANT:
+Only explicit versions and supported ECOSYSTEM ranges
+are classified as affected-version candidates.
+Open-ended ranges are interpreted literally.
+An OSV range match is not independent malware proof.
+Unsupported range formats remain unresolved.
+No confirmed benign labels are assigned.
+All records remain unverified for ML training.

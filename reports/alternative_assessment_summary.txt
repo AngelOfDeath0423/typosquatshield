@@ -1,0 +1,27 @@
+TYPOSQUATSHIELD - ALTERNATIVE ASSESSMENT AUDIT
+=================================================================
+Candidate packages: 4510
+
+GROUP SUMMARY
+                                 packages  with_later_versions  with_prior_at_selected  with_prior_at_latest  median_later_records  median_prior_at_latest
+candidate_group                                                                                                                                           
+openssf_exact_version_candidate      2255                  710                     194                   806                   0.0                     0.0
+presumed_legitimate                  2255                 1775                       0                  1775                   6.0                     6.0
+
+LATER RECORD DISTRIBUTION
+count    4510.000000
+mean       17.970067
+std        64.331396
+min         0.000000
+25%         0.000000
+50%         1.000000
+75%         8.000000
+max      1604.000000
+
+LIMITATIONS
+Latest observed versions are diagnostic examples only.
+Later OpenSSF versions must not inherit labels automatically.
+Prior records are counted using strictly earlier times.
+Historical completeness is not established.
+Upload timestamps are provisional assessment times.
+No existing candidate files have been modified.

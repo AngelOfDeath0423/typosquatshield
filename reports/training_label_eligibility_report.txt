@@ -1,0 +1,18 @@
+TYPOSQUATSHIELD - TRAINING LABEL ELIGIBILITY
+============================================================
+Historical records: 33945
+
+EVIDENCE CATEGORIES:
+unlabeled: 16488
+candidate_training_review: 7622
+range_evidence_review: 6944
+conflicting_or_temporal_review: 2891
+
+Evidence review queue: 17457
+
+LIMITATIONS:
+Candidate training records are not verified malware.
+Range-only records require further source review.
+Name-only records are not benign labels.
+No final ML labels assigned.
+Feature-time leakage must be checked before training.

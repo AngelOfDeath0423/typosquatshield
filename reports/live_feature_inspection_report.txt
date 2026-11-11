@@ -1,0 +1,163 @@
+TYPOSQUATSHIELD - LIVE FEATURE INSPECTION
+=================================================================
+Training records: 4410
+Reference packages: 100
+
+
+=================================================================
+PACKAGE: requests
+Version: 2.34.2
+Feature status: complete
+Missing features: []
+
+Feature                                       Live   Train median
+-----------------------------------------------------------------
+name_length                                      8        11.0000
+name_separator_count                             0         0.0000
+name_digit_count                                 0         0.0000
+version_is_prerelease                            0         0.0000
+summary_length                                  23        40.0000
+summary_word_count                               4         6.0000
+summary_missing                                  0         0.0000
+requires_python_missing                          0         0.0000
+typo_min_edit_distance                           0         7.0000
+typo_max_similarity                            1.0         0.3571
+typo_potential_match                             1         0.0000
+typo_close_match_count                           1         0.0000
+typo_reference_length                            8         8.0000
+prior_release_count                            160         0.0000
+has_prior_history                                1         0.0000
+observed_package_age_days                 5748.762         0.7479
+
+SIMILARITY RESULT
+{
+  "requested_package": "requests",
+  "exact_reference_match": true,
+  "potential_typo": false,
+  "suggestions": [],
+  "explanation": "Exact match in the curated reference list. This does not guarantee package safety."
+}
+
+REPUTATION RESULT
+{
+  "prior_release_count": 160,
+  "has_prior_history": 1,
+  "observed_package_age_days": 5748.762032,
+  "days_since_previous_release": 180.320553,
+  "prior_release_span_days": 5568.441479,
+  "reputation_status": "approximate_live_history",
+  "reputation_limitations": [
+    "Release history uses currently retained PyPI files.",
+    "Historical training records may have different coverage.",
+    "Observed age is not verified package creation age.",
+    "Release count is not a measure of package trust."
+  ]
+}
+
+=================================================================
+PACKAGE: numpy
+Version: 2.5.4
+Feature status: complete
+Missing features: []
+
+Feature                                       Live   Train median
+-----------------------------------------------------------------
+name_length                                      5        11.0000
+name_separator_count                             0         0.0000
+name_digit_count                                 0         0.0000
+version_is_prerelease                            0         0.0000
+summary_length                                  49        40.0000
+summary_word_count                               7         6.0000
+summary_missing                                  0         0.0000
+requires_python_missing                          0         0.0000
+typo_min_edit_distance                           0         7.0000
+typo_max_similarity                            1.0         0.3571
+typo_potential_match                             1         0.0000
+typo_close_match_count                           1         0.0000
+typo_reference_length                            5         8.0000
+prior_release_count                            138         0.0000
+has_prior_history                                1         0.0000
+observed_package_age_days                7284.0412         0.7479
+
+SIMILARITY RESULT
+{
+  "requested_package": "numpy",
+  "exact_reference_match": true,
+  "potential_typo": false,
+  "suggestions": [],
+  "explanation": "Exact match in the curated reference list. This does not guarantee package safety."
+}
+
+REPUTATION RESULT
+{
+  "prior_release_count": 138,
+  "has_prior_history": 1,
+  "observed_package_age_days": 7284.041206,
+  "days_since_previous_release": 31.294703,
+  "prior_release_span_days": 7252.746503,
+  "reputation_status": "approximate_live_history",
+  "reputation_limitations": [
+    "Release history uses currently retained PyPI files.",
+    "Historical training records may have different coverage.",
+    "Observed age is not verified package creation age.",
+    "Release count is not a measure of package trust."
+  ]
+}
+
+=================================================================
+PACKAGE: pandas
+Version: 3.1.1
+Feature status: complete
+Missing features: []
+
+Feature                                       Live   Train median
+-----------------------------------------------------------------
+name_length                                      6        11.0000
+name_separator_count                             0         0.0000
+name_digit_count                                 0         0.0000
+version_is_prerelease                            0         0.0000
+summary_length                                  71        40.0000
+summary_word_count                              10         6.0000
+summary_missing                                  0         0.0000
+requires_python_missing                          0         0.0000
+typo_min_edit_distance                           0         7.0000
+typo_max_similarity                            1.0         0.3571
+typo_potential_match                             1         0.0000
+typo_close_match_count                           1         0.0000
+typo_reference_length                            6         8.0000
+prior_release_count                            121         0.0000
+has_prior_history                                1         0.0000
+observed_package_age_days                6164.1309         0.7479
+
+SIMILARITY RESULT
+{
+  "requested_package": "pandas",
+  "exact_reference_match": true,
+  "potential_typo": false,
+  "suggestions": [],
+  "explanation": "Exact match in the curated reference list. This does not guarantee package safety."
+}
+
+REPUTATION RESULT
+{
+  "prior_release_count": 121,
+  "has_prior_history": 1,
+  "observed_package_age_days": 6164.130931,
+  "days_since_previous_release": 6.501086,
+  "prior_release_span_days": 6157.629844,
+  "reputation_status": "approximate_live_history",
+  "reputation_limitations": [
+    "Release history uses currently retained PyPI files.",
+    "Historical training records may have different coverage.",
+    "Observed age is not verified package creation age.",
+    "Release count is not a measure of package trust."
+  ]
+}
+
+INTERPRETATION NOTES
+Training medians are descriptive, not expected values.
+Live metadata may differ from historical metadata.
+Current PyPI release history may be incomplete.
+The training labels are provisional candidate groups.
+No malware probability or final risk level is inferred.
+This script does not retrain or modify the model.

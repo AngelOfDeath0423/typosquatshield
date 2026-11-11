@@ -1,0 +1,27 @@
+TYPOSQUATSHIELD - BATCH ARTIFACT AVAILABILITY
+=================================================================
+Candidate records: 4410
+Checked records: 120
+Resolved records: 58
+Not checked: 4290
+Artifact inventory records: 94
+
+STATUS BY CANDIDATE GROUP
+resolution_status                no_supported_artifacts  not_checked  not_found  resolved
+candidate_group                                                                          
+openssf_exact_version_candidate                       0         2145         55         5
+presumed_legitimate                                   1         2145          6        53
+
+ARTIFACT TYPES BY GROUP
+artifact_type                    sdist_tar_gz  wheel
+candidate_group                                     
+openssf_exact_version_candidate             5      3
+presumed_legitimate                        45     41
+
+LIMITATIONS
+Availability reflects the current PyPI API.
+Unavailable artifacts are not proof of maliciousness.
+Current availability does not prove historical availability.
+Artifact metadata is not package-code analysis.
+Candidate-group labels remain provisional.
+No malware detection or model training performed.

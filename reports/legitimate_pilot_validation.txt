@@ -1,0 +1,32 @@
+TYPOSQUATSHIELD - LEGITIMATE PILOT VALIDATION
+Records: 100
+Columns: 26
+
+duplicate_names: 0
+normalization_errors: 0
+active_openssf_overlaps: 0
+invalid_first_upload_time: 0
+invalid_latest_upload_time: 0
+invalid_collection_timestamp: 0
+invalid_date_order: 0
+invalid_version_count: 0
+invalid_distribution_file_count: 0
+invalid_latest_release_file_count: 0
+invalid_requires_dist_json: 0
+invalid_project_urls_json: 0
+unexpected_labels: 0
+unexpected_verified_flags: 0
+collection_log_mismatch: 0
+
+OPTIONAL METADATA MISSING VALUES
+author: 75
+author_email: 30
+maintainer: 89
+maintainer_email: 59
+license: 66
+keywords: 64
+home_page: 75
+requires_python: 1
+
+STRUCTURAL VALIDATION: PASS
+Note: This does not verify that packages are benign.

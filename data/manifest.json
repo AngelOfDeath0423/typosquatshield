@@ -1,0 +1,62 @@
+{
+  "description": "Preserved dataset snapshots measured during repository cleanup; not an extraction provenance record.",
+  "observed_openssf_head": "3812671bee8aa766a40bcdf9ee322d7c6456cf29",
+  "original_extraction_commit": null,
+  "original_collection_timestamp": null,
+  "datasets": [
+    {
+      "path": "data/dev/pypi_cleaned_dev_5000.csv",
+      "bytes": 2920220,
+      "sha256": "6a9594fab7e5bf0e704d36ca757b43d53a97f83eb657916acd004be552ab8394",
+      "records": 5000,
+      "unique_normalized_names": 5000,
+      "columns": [
+        "name", "normalized_name", "latest_version", "summary", "author",
+        "author_email", "maintainer", "maintainer_email", "license", "keywords",
+        "home_page", "requires_python", "first_upload_time", "latest_upload_time",
+        "package_age_days", "total_uploads", "version_count", "filename", "size",
+        "packagetype", "has_summary", "has_author", "has_maintainer", "has_homepage"
+      ]
+    },
+    {
+      "path": "data/dev/pypi_raw_dev_5000.csv",
+      "bytes": 2896184,
+      "sha256": "2b449f438e041ebdc3e0554826cf585cfd4dda3ffb601a1688d279e5b48f314c",
+      "records": 5000,
+      "unique_normalized_names": 5000,
+      "columns": [
+        "name", "normalized_name", "latest_version", "summary", "author",
+        "author_email", "maintainer", "maintainer_email", "license", "keywords",
+        "home_page", "requires_python", "first_upload_time", "latest_upload_time",
+        "package_age_days", "total_uploads", "version_count", "filename", "size",
+        "packagetype", "has_summary", "has_author", "has_maintainer", "has_homepage"
+      ]
+    },
+    {
+      "path": "data/labels/openssf_pypi_labels_raw.csv",
+      "bytes": 14742728,
+      "sha256": "ae47259acdb2519e6f951aa177e64db8f6f7bfa77456539219abedc8a7471c33",
+      "records": 17121,
+      "unique_package_names": 11798,
+      "label_status": {"needs_review": 17121},
+      "columns": [
+        "package_name", "package_version", "affected_ranges", "ecosystem",
+        "report_id", "published", "modified", "withdrawn", "summary", "details",
+        "references", "origin_sources", "report_path", "label_source", "label_status"
+      ]
+    },
+    {
+      "path": "data/labels/openssf_pypi_labels_reviewed.csv",
+      "bytes": 14847490,
+      "sha256": "9161f138826ffba184e6611f0afbcf73832a4a925460937238c56f7f6a33079b",
+      "records": 17121,
+      "unique_package_names": 11798,
+      "label_status": {"candidate_malicious": 14966, "needs_review": 2155},
+      "columns": [
+        "package_name", "package_version", "affected_ranges", "ecosystem",
+        "report_id", "published", "modified", "withdrawn", "summary", "details",
+        "references", "origin_sources", "report_path", "label_source", "label_status"
+      ]
+    }
+  ]
+}

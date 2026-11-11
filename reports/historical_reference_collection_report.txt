@@ -1,0 +1,20 @@
+TYPOSQUATSHIELD - HISTORICAL REFERENCE COLLECTION
+=================================================================
+Reference packages: 100
+References with dated distribution evidence: 100
+References without dated distribution evidence: 0
+
+COLLECTION STATUS
+collection_status
+success    100
+
+LIMITATIONS
+Data obtained from the current public PyPI JSON API.
+The earliest retained distribution upload timestamp
+is not necessarily the original package publication date.
+Deleted files and historical gaps may affect coverage.
+Current project metadata is not historical reputation.
+Historical popularity and trust are not established.
+Network failures do not prove package nonexistence.
+No existing ML features or labels were modified.
+No model training was performed.

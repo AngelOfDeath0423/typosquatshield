@@ -1,0 +1,11 @@
+TYPOSQUATSHIELD - HISTORICAL METADATA FEASIBILITY
+============================================================
+Packages tested: 10
+OSV reports accessible: 10
+PyPI version metadata accessible: 0
+
+NOTES:
+OSV reports provide advisory evidence, not necessarily
+historical PyPI metadata suitable for model features.
+PyPI version endpoint is not an independent archive.
+No distribution artifacts were downloaded or executed.

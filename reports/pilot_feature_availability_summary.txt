@@ -1,0 +1,23 @@
+TYPOSQUATSHIELD - PILOT FEATURE AVAILABILITY
+============================================================
+Total records: 219
+Unique packages: 100
+
+FEATURE AVAILABILITY:
+package_name: 219/219 (100.0%)
+version: 219/219 (100.0%)
+summary: 153/219 (69.86%)
+requires_python: 181/219 (82.65%)
+distribution_file_count: 219/219 (100.0%)
+first_upload_time: 219/219 (100.0%)
+
+EXCLUDED FROM PREDICTIVE FEATURES:
+original_report_status, timeline_status, training_eligibility, ml_label, label_verified, label_source, original_report_ids, explicit_report_ids, range_report_ids, unresolved_report_ids, supporting_report_ids, supporting_report_count, earliest_report_published, latest_report_published, days_before_earliest_report
+
+IMPORTANT:
+A field being present does not prove it was available
+at the time a user would have installed the package.
+Name-based features are available before installation.
+Historical metadata fields need temporal verification.
+OpenSSF evidence fields must not be ML inputs.
+This audit does not train or evaluate a classifier.

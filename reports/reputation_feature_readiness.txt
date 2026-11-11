@@ -1,0 +1,25 @@
+TYPOSQUATSHIELD - REPUTATION FEATURE READINESS
+=================================================================
+Candidate records: 4510
+Historical records: 484165
+Candidate packages: 4510
+Packages found in history: 4510
+Exact candidate version/timestamp matches: 4510
+Missing exact matches: 0
+
+HISTORICAL RECORD COUNTS FOR CANDIDATE PACKAGES
+count    4510.000000
+mean       21.096896
+std        76.032196
+min         1.000000
+25%         1.000000
+50%         2.000000
+75%        10.000000
+max      1708.000000
+
+LIMITATIONS
+Historical records may represent aggregated version data.
+Version upload timestamps are not necessarily the
+package's original publication timestamps.
+Historical data completeness requires verification.
+Assessment-time leakage must be prevented.

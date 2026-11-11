@@ -1,0 +1,121 @@
+normalized_name,version,candidate_group,resolution_status,artifact_count,wheel_count,sdist_count,has_sha256,resolved_at_utc,error
+useragents,0.1.1,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:34:46.056067+00:00,Package version not available through the current PyPI JSON API.
+pyrsi,0.1.4,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:34:47.309789+00:00,
+instaread,0.1.3,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:34:48.366572+00:00,Package version not available through the current PyPI JSON API.
+liw,1.3.0,presumed_legitimate,no_supported_artifacts,0,0,0,False,2026-11-08T03:34:49.449473+00:00,
+nai,2.4,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:34:50.457968+00:00,Package version not available through the current PyPI JSON API.
+edbot,5.1.1,presumed_legitimate,resolved,1,0,1,True,2026-11-08T03:34:51.660300+00:00,
+tempeh,0.1.11a1,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:34:52.813538+00:00,Package version not available through the current PyPI JSON API.
+operator-courier,2.1.6,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:34:53.980023+00:00,
+pingdomv3,0.0.3,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:34:55.184995+00:00,Package version not available through the current PyPI JSON API.
+ladybug-geometry,1.3.0,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:34:56.267696+00:00,
+doughnuts,4.0.0,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:34:57.507278+00:00,Package version not available through the current PyPI JSON API.
+spaceone-inventory,0.1.2.post20,presumed_legitimate,resolved,1,1,0,True,2026-11-08T03:34:58.609281+00:00,
+pirxcypackage,8.0.0,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:34:59.888256+00:00,Package version not available through the current PyPI JSON API.
+dream-tools,0.3.2,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:35:00.996776+00:00,
+django-b64-img,1.1,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:35:02.296876+00:00,Package version not available through the current PyPI JSON API.
+jumpy,0.1,presumed_legitimate,resolved,1,0,1,True,2026-11-08T03:35:03.376681+00:00,
+moxel-python-driver,0.0.1,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:35:04.601772+00:00,Package version not available through the current PyPI JSON API.
+vquery,0.3,presumed_legitimate,resolved,1,0,1,True,2026-11-08T03:35:05.689987+00:00,
+pyethereum,1.0.0,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:35:06.702428+00:00,Package version not available through the current PyPI JSON API.
+openlocate,0.1,presumed_legitimate,resolved,1,0,1,True,2026-11-08T03:35:07.800815+00:00,
+fakeuseragent,0.1.1,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:37:58.238497+00:00,Package version not available through the current PyPI JSON API.
+arpyes,0.1,presumed_legitimate,resolved,1,0,1,True,2026-11-08T03:37:59.350850+00:00,
+nfd,1.0,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:00.395479+00:00,Package version not available through the current PyPI JSON API.
+smnet-gpu,1.1.2,presumed_legitimate,resolved,1,0,1,True,2026-11-08T03:38:01.489265+00:00,
+crazehub,3.6.0,openssf_exact_version_candidate,resolved,1,0,1,True,2026-11-08T03:38:02.995513+00:00,
+trame,1.3.0,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:38:03.989119+00:00,
+enhancer,0.2.3,openssf_exact_version_candidate,resolved,2,1,1,True,2026-11-08T03:38:05.078424+00:00,
+halsn,0.1.43,presumed_legitimate,resolved,1,1,0,True,2026-11-08T03:38:06.224665+00:00,
+socketxio,2.0,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:07.545119+00:00,Package version not available through the current PyPI JSON API.
+pyrack,0.0.4,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:38:08.781614+00:00,
+stringhelp,8.0,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:09.803556+00:00,Package version not available through the current PyPI JSON API.
+moteus,0.3.0,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:38:10.914970+00:00,
+faest,0.14.6,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:12.080441+00:00,Package version not available through the current PyPI JSON API.
+masonite-orm,0.0.2.2,presumed_legitimate,resolved,1,0,1,True,2026-11-08T03:38:13.358911+00:00,
+http3-client,1.0.19,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:14.661614+00:00,Package version not available through the current PyPI JSON API.
+huaweicloudsdkkoomessage,3.1.69,presumed_legitimate,resolved,1,1,0,True,2026-11-08T03:38:15.784162+00:00,
+projz-py,2.3.9,openssf_exact_version_candidate,resolved,1,0,1,True,2026-11-08T03:38:17.034525+00:00,
+botocore-a-la-carte-omics,1.31.59,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:38:18.082755+00:00,
+bughunter9,9.18,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:19.257602+00:00,Package version not available through the current PyPI JSON API.
+lollms,2.0.22,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:38:20.469751+00:00,
+nnabla-ext-cuda101-nccl2-ubuntu16,0.0.2,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:21.647068+00:00,Package version not available through the current PyPI JSON API.
+qcs-sdk-python,0.5.0rc3,presumed_legitimate,resolved,1,0,1,True,2026-11-08T03:38:22.754780+00:00,
+pydisk,0.0.0,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:23.821629+00:00,Package version not available through the current PyPI JSON API.
+flowtask,4.7.11,presumed_legitimate,resolved,3,3,0,True,2026-11-08T03:38:25.089536+00:00,
+kekiktaban,0.5.0,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:26.210652+00:00,Package version not available through the current PyPI JSON API.
+botocore-a-la-carte,1.29.102,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:38:27.499294+00:00,
+genz-translator,9017.0.1,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:28.617572+00:00,Package version not available through the current PyPI JSON API.
+fsd,0.0.235,presumed_legitimate,not_found,0,0,0,False,2026-11-08T03:38:29.749437+00:00,Package version not available through the current PyPI JSON API.
+ethrpc-keys,0.5.7,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:30.979771+00:00,Package version not available through the current PyPI JSON API.
+tencentcloud-sdk-python-acp,3.0.1271,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:38:32.084562+00:00,
+treadtools,1.0.1,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:33.319970+00:00,Package version not available through the current PyPI JSON API.
+haiway,0.6.3,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:38:35.791037+00:00,
+glovo-data-platform-declarative,999.9.20,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:36.945821+00:00,Package version not available through the current PyPI JSON API.
+mqtt-backend-serrawatch,0.1.14,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:38:38.048673+00:00,
+python-module-installer,3.15.9,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:39.218961+00:00,Package version not available through the current PyPI JSON API.
+dkist-processing-cryonirsp,0.0.77,presumed_legitimate,resolved,1,0,1,True,2026-11-08T03:38:40.315937+00:00,
+kaggle-runner,0.0.2,openssf_exact_version_candidate,resolved,2,1,1,True,2026-11-08T03:38:41.485153+00:00,
+skelvis,0.3,presumed_legitimate,resolved,1,1,0,True,2026-11-08T03:38:42.563271+00:00,
+nshack,1.1,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:43.821390+00:00,Package version not available through the current PyPI JSON API.
+odoo13-addon-purchase-sale-inter-company,13.0.1.0.1.dev4,presumed_legitimate,resolved,1,1,0,True,2026-11-08T03:38:44.967209+00:00,
+darkig,2.0,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:46.142869+00:00,Package version not available through the current PyPI JSON API.
+mevpc2,0.0.2,presumed_legitimate,not_found,0,0,0,False,2026-11-08T03:38:47.261728+00:00,Package version not available through the current PyPI JSON API.
+bhottwo,2.0,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:48.359437+00:00,Package version not available through the current PyPI JSON API.
+tritonclient,0.0.1.dev2,presumed_legitimate,not_found,0,0,0,False,2026-11-08T03:38:49.467816+00:00,Package version not available through the current PyPI JSON API.
+statssol,0.7.0,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:50.747169+00:00,Package version not available through the current PyPI JSON API.
+segments-ai,0.2,presumed_legitimate,resolved,1,0,1,True,2026-11-08T03:38:51.839000+00:00,
+akangatu,0.20.12a0,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:53.103967+00:00,Package version not available through the current PyPI JSON API.
+olist-loafer,3.0.1,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:38:54.334460+00:00,
+1q847,0.0.6,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:55.578509+00:00,Package version not available through the current PyPI JSON API.
+startifact,1.0.0a4,presumed_legitimate,resolved,1,1,0,True,2026-11-08T03:38:56.706043+00:00,
+el1t3,0.1.8,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:38:57.839251+00:00,Package version not available through the current PyPI JSON API.
+xhibit,1.0.1,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:38:58.951656+00:00,
+ctf-q21-empire-tmp-t0pw1ng,100.0.9,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:00.063561+00:00,Package version not available through the current PyPI JSON API.
+pydpd,0.1.0,presumed_legitimate,not_found,0,0,0,False,2026-11-08T03:39:01.155300+00:00,Package version not available through the current PyPI JSON API.
+ctf-q21-empire-tmp-bw134347,0.0.11,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:02.298878+00:00,Package version not available through the current PyPI JSON API.
+mibandpreview,0.8.3,presumed_legitimate,resolved,1,0,1,True,2026-11-08T03:39:03.559255+00:00,
+ctf-q21-empire-tmp-test123,9999.0.4,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:04.804733+00:00,Package version not available through the current PyPI JSON API.
+hack-cash-app-money-free-generator-2021-working,1.1.8,presumed_legitimate,not_found,0,0,0,False,2026-11-08T03:39:05.900155+00:00,Package version not available through the current PyPI JSON API.
+ctf-q21-empire-tmp-bw126616,1,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:07.028575+00:00,Package version not available through the current PyPI JSON API.
+gor-pyspark,3.11.7,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:39:08.244378+00:00,
+gearbest-parser,2.0.7,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:09.605122+00:00,Package version not available through the current PyPI JSON API.
+scikit-bot,0.4.0,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:39:10.833403+00:00,
+easypydb,0.4.4,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:11.957712+00:00,Package version not available through the current PyPI JSON API.
+sbo,1.0.4,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:39:13.166294+00:00,
+adminbypasser,1.0.6,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:14.346523+00:00,Package version not available through the current PyPI JSON API.
+open-crypto,3.8.2,presumed_legitimate,not_found,0,0,0,False,2026-11-08T03:39:15.592191+00:00,Package version not available through the current PyPI JSON API.
+ctf-q21-empire-tmp-test125,9999.0.7,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:16.874373+00:00,Package version not available through the current PyPI JSON API.
+subgraph-extractor,0.0.4,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:39:17.968492+00:00,
+sentinelone,1.1.2,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:19.080889+00:00,Package version not available through the current PyPI JSON API.
+onnx2tf,1.0.7,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:39:20.203607+00:00,
+tensorflow-opt,0.25,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:21.249494+00:00,Package version not available through the current PyPI JSON API.
+fishconsole,1.1117,presumed_legitimate,resolved,1,0,1,True,2026-11-08T03:39:22.329671+00:00,
+config4py,0.0.21,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:23.509224+00:00,Package version not available through the current PyPI JSON API.
+odap,0.0.16,presumed_legitimate,resolved,1,1,0,True,2026-11-08T03:39:24.740728+00:00,
+aiohttp-proxies-connector,0.2.21,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:25.858466+00:00,Package version not available through the current PyPI JSON API.
+tensortrax,0.2.7,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:39:26.937640+00:00,
+admcheck,1.4.0,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:28.249007+00:00,Package version not available through the current PyPI JSON API.
+cdktf-cdktf-provider-cloudflare,0.1.25,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:39:29.479313+00:00,
+easyascii,3.3.8,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:30.624081+00:00,Package version not available through the current PyPI JSON API.
+evaics,0.0.23,presumed_legitimate,resolved,1,0,1,True,2026-11-08T03:39:31.721965+00:00,
+amino-fix,2.1.8,openssf_exact_version_candidate,resolved,2,1,1,True,2026-11-08T03:39:32.833200+00:00,
+soda-core-postgres,3.0.0b13,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:39:33.823165+00:00,
+ctf-q21-empire-tmp-bw134345,0.0.2,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:35.080716+00:00,Package version not available through the current PyPI JSON API.
+oianalytics,0.1.1,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:39:36.189847+00:00,
+ctf-bakayaro,0.0.2,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:37.318875+00:00,Package version not available through the current PyPI JSON API.
+tgcf,0.1.6,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:39:38.566232+00:00,
+fastybird-redisdb-exchange-plugin,0.0.1,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:39.565503+00:00,Package version not available through the current PyPI JSON API.
+biliup,0.0.3,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:39:40.635397+00:00,
+ctf-q21-empire-tmp-bw121116,0.0.2,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:41.927007+00:00,Package version not available through the current PyPI JSON API.
+printtutorial-ef,0.0.4,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:39:43.006742+00:00,
+botbooster,0.0.2,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:44.142210+00:00,Package version not available through the current PyPI JSON API.
+hilda,0.0.1,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:39:45.368252+00:00,
+trickery,1.0.1,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:46.471429+00:00,Package version not available through the current PyPI JSON API.
+docker-snapshot,1.0.2,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:39:47.551778+00:00,
+coffin-codes-2022,7.2,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:48.693461+00:00,Package version not available through the current PyPI JSON API.
+choto,1.0.3,presumed_legitimate,resolved,1,0,1,True,2026-11-08T03:39:49.779989+00:00,
+logging-python,0.0.2,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:50.948469+00:00,Package version not available through the current PyPI JSON API.
+jupyterlab-language-pack-lt-lt,3.1.post0,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:39:52.040723+00:00,
+discord-api,1.0.1,openssf_exact_version_candidate,not_found,0,0,0,False,2026-11-08T03:39:53.142997+00:00,Package version not available through the current PyPI JSON API.
+jupyterlab-sos,0.8.1,presumed_legitimate,resolved,2,1,1,True,2026-11-08T03:39:54.238885+00:00,

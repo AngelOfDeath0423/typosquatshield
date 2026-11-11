@@ -1,0 +1,16 @@
+TYPOSQUATSHIELD - MALICIOUS METADATA AUDIT
+=======================================================
+Audit sample: 100
+Random seed: 42
+
+PyPI package metadata available: 3
+PyPI HTTP 404: 97
+Other request errors: 0
+
+Packages with reported version in PyPI history: 3
+
+INTERPRETATION:
+A PyPI 404 does not mean the OpenSSF report is invalid.
+An available package name does not establish that the reported malicious version is still available.
+Version ranges require separate interpretation.
+All labels remain provisional.

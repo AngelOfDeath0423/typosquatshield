@@ -1,0 +1,99 @@
+TYPOSQUATSHIELD - VERSION-AWARE POOL REPORT
+=================================================================
+Total version records: 84154
+Unique packages: 4510
+
+GROUP SUMMARY
+                                 version_records  unique_packages  with_prior_history
+candidate_group                                                                      
+openssf_exact_version_candidate             4304             2255                2243
+presumed_legitimate                        79850             2255               77595
+
+YEAR AND PRIOR-HISTORY STRATA
+                candidate_group  assessment_year history_bucket  unique_packages
+openssf_exact_version_candidate             2017              0                3
+openssf_exact_version_candidate             2017            1-2                1
+openssf_exact_version_candidate             2017           3-10                1
+openssf_exact_version_candidate             2018              0                3
+openssf_exact_version_candidate             2018            1-2                1
+openssf_exact_version_candidate             2018            11+                1
+openssf_exact_version_candidate             2019              0                3
+openssf_exact_version_candidate             2019            1-2                2
+openssf_exact_version_candidate             2019           3-10                1
+openssf_exact_version_candidate             2019            11+                2
+openssf_exact_version_candidate             2020              0               17
+openssf_exact_version_candidate             2020            1-2                8
+openssf_exact_version_candidate             2020           3-10                4
+openssf_exact_version_candidate             2020            11+                2
+openssf_exact_version_candidate             2021              0               39
+openssf_exact_version_candidate             2021            1-2               15
+openssf_exact_version_candidate             2021           3-10               10
+openssf_exact_version_candidate             2021            11+                3
+openssf_exact_version_candidate             2022              0              206
+openssf_exact_version_candidate             2022            1-2               53
+openssf_exact_version_candidate             2022           3-10               27
+openssf_exact_version_candidate             2022            11+               10
+openssf_exact_version_candidate             2023              0              401
+openssf_exact_version_candidate             2023            1-2              115
+openssf_exact_version_candidate             2023           3-10               33
+openssf_exact_version_candidate             2023            11+                6
+openssf_exact_version_candidate             2024              0              361
+openssf_exact_version_candidate             2024            1-2               65
+openssf_exact_version_candidate             2024           3-10               31
+openssf_exact_version_candidate             2024            11+                6
+openssf_exact_version_candidate             2025              0              407
+openssf_exact_version_candidate             2025            1-2              148
+openssf_exact_version_candidate             2025           3-10               66
+openssf_exact_version_candidate             2025            11+               53
+openssf_exact_version_candidate             2026              0              621
+openssf_exact_version_candidate             2026            1-2              263
+openssf_exact_version_candidate             2026           3-10              102
+openssf_exact_version_candidate             2026            11+               26
+            presumed_legitimate             2017              0                3
+            presumed_legitimate             2017            1-2                3
+            presumed_legitimate             2017           3-10                2
+            presumed_legitimate             2018              0                4
+            presumed_legitimate             2018            1-2                1
+            presumed_legitimate             2018           3-10                2
+            presumed_legitimate             2019              0                4
+            presumed_legitimate             2019            1-2                4
+            presumed_legitimate             2019           3-10                4
+            presumed_legitimate             2019            11+                2
+            presumed_legitimate             2020              0               22
+            presumed_legitimate             2020            1-2               15
+            presumed_legitimate             2020           3-10               14
+            presumed_legitimate             2020            11+               10
+            presumed_legitimate             2021              0               51
+            presumed_legitimate             2021            1-2               33
+            presumed_legitimate             2021           3-10               24
+            presumed_legitimate             2021            11+               22
+            presumed_legitimate             2022              0              220
+            presumed_legitimate             2022            1-2              162
+            presumed_legitimate             2022           3-10              126
+            presumed_legitimate             2022            11+               80
+            presumed_legitimate             2023              0              424
+            presumed_legitimate             2023            1-2              342
+            presumed_legitimate             2023           3-10              294
+            presumed_legitimate             2023            11+              220
+            presumed_legitimate             2024              0              372
+            presumed_legitimate             2024            1-2              335
+            presumed_legitimate             2024           3-10              322
+            presumed_legitimate             2024            11+              337
+            presumed_legitimate             2025              0              471
+            presumed_legitimate             2025            1-2              378
+            presumed_legitimate             2025           3-10              384
+            presumed_legitimate             2025            11+              460
+            presumed_legitimate             2026              0              684
+            presumed_legitimate             2026            1-2              574
+            presumed_legitimate             2026           3-10              546
+            presumed_legitimate             2026            11+              639
+
+LIMITATIONS
+This is a diagnostic pool, not a final ML dataset.
+No verified malicious or benign labels are assigned.
+OpenSSF versions require exact candidate-review evidence.
+Positive names are restricted to the existing matched cohort.
+Negative versions are presumed legitimate only.
+Prior history uses strictly earlier observed upload times.
+No assessment versions have been selected yet.
+Year/history matching and temporal validation remain.

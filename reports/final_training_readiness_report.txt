@@ -1,0 +1,54 @@
+TYPOSQUATSHIELD - FINAL TRAINING READINESS REPORT
+=================================================================
+Records: 4410
+Unique packages: 4410
+Matched pairs: 2205
+Candidate features: 16
+
+EVIDENCE STATUS FOR OPEnSSF CANDIDATES
+training_evidence_status
+candidate_training_review    2205
+
+READINESS CHECKS
+invalid_assessment_timestamps: 0
+history_indicator_inconsistencies: 0
+negative_observed_ages: 0
+age_missing_with_prior_history: 0
+age_present_without_prior_history: 0
+positive_evidence_missing: 0
+positive_not_exact_version: 0
+positive_not_candidate_review: 0
+negative_with_openssf_evidence: 0
+missing_split_membership: 0
+matched_pair_split_leakage: 0
+
+NUMERIC FEATURE MISSINGNESS
+observed_package_age_days    2844
+name_length                     0
+name_digit_count                0
+name_separator_count            0
+summary_length                  0
+summary_word_count              0
+summary_missing                 0
+version_is_prerelease           0
+requires_python_missing         0
+typo_min_edit_distance          0
+typo_potential_match            0
+typo_max_similarity             0
+typo_close_match_count          0
+typo_reference_length           0
+prior_release_count             0
+has_prior_history               0
+
+AGE RELIABILITY FLAGS
+Observed age under 1 hour: 489
+Observed age over 365 days: 135
+
+ASSESSMENT
+This audit checks internal dataset consistency.
+It does not verify original publication timestamps.
+It does not independently verify metadata provenance.
+It does not verify historical similarity references.
+It does not establish verified malware labels.
+It does not establish verified benign labels.
+It does not approve final model evaluation.

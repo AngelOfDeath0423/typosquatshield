@@ -1,0 +1,17 @@
+TYPOSQUATSHIELD - FULL TEMPORAL EVIDENCE AUDIT
+============================================================
+Exact-match records: 10513
+Unique matched package versions: 10513
+
+REVIEW CATEGORIES:
+candidate_temporally_consistent: 7622
+uploaded_after_report_review: 1584
+needs_source_review: 1307
+
+Review queue rows: 2891
+
+LIMITATIONS:
+Temporal consistency does not verify maliciousness.
+Affected ranges are not evaluated.
+Historical feature availability still requires review.
+No ML ground-truth labels assigned.

@@ -1,0 +1,26 @@
+TYPOSQUATSHIELD - HISTORICAL REPUTATION FEATURES
+=================================================================
+Input records: 4410
+Output records: 4410
+Unique packages: 4410
+New reputation features: 5
+
+GROUP SUMMARY
+                                 records  with_prior_history  mean_prior_releases  median_prior_releases  mean_observed_age_days  median_observed_age_days  median_days_since_previous
+candidate_group                                                                                                                                                                       
+openssf_exact_version_candidate     2205                 783                5.127                    0.0                 190.336                     0.047                       0.015
+presumed_legitimate                 2205                 783                4.670                    0.0                  74.205                     4.910                       0.457
+
+VALIDATION
+Candidate/history prior-count consistency: PASS
+Strictly earlier timestamps used: PASS
+
+LIMITATIONS
+Age means age since first observed release,
+not verified original package creation date.
+Historical records may be incomplete.
+No prior history is not proof of a new package.
+Missing age and interval values require explicit
+handling before model training.
+Upload timestamps are provisional assessment cutoffs.
+Labels remain provisional, not verified malware truth.

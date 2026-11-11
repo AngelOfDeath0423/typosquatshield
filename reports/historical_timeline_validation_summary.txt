@@ -1,0 +1,21 @@
+TYPOSQUATSHIELD - HISTORICAL TIMELINE VALIDATION
+============================================================
+Historical records: 219
+Unique packages: 100
+
+TIMELINE STATUS COUNTS:
+uploaded_before_all_reports: 130
+uploaded_after_all_reports: 17
+same_timestamp_as_reports: 0
+mixed_report_timeline: 0
+missing_report_date: 0
+invalid_upload_date: 0
+no_version_level_report_evidence: 72
+
+INTERPRETATION:
+Only supporting OpenSSF reports are used.
+Unmatched versions are not assigned benign labels.
+Upload before publication is not malware proof.
+Upload after publication requires investigation.
+Historical feature availability needs further review.
+No labels are automatically marked verified.

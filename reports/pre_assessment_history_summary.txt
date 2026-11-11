@@ -1,0 +1,27 @@
+TYPOSQUATSHIELD - PRE-ASSESSMENT HISTORY SUMMARY
+=================================================================
+Candidate packages: 4510
+
+HISTORY AVAILABILITY BY GROUP
+                                 packages  with_prior_history  without_prior_history  mean_prior_records  median_prior_records
+candidate_group                                                                                                               
+openssf_exact_version_candidate      2255                 194                   2061            4.253659                   0.0
+presumed_legitimate                  2255                   0                   2255            0.000000                   0.0
+
+OVERALL PRIOR RECORD DISTRIBUTION
+count    4510.000000
+mean        2.126829
+std        39.389946
+min         0.000000
+25%         0.000000
+50%         0.000000
+75%         0.000000
+max      1707.000000
+
+LIMITATIONS
+Only strictly earlier upload timestamps are counted.
+Same-timestamp records are excluded conservatively.
+First observed does not prove first-ever release.
+Historical metadata may be incomplete.
+Upload time is a provisional assessment cutoff.
+Historical source availability is not fully verified.

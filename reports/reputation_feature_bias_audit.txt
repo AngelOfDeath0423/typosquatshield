@@ -1,0 +1,74 @@
+TYPOSQUATSHIELD - REPUTATION FEATURE BIAS AUDIT
+=================================================================
+Total packages: 4410
+Packages with prior history: 1566
+
+PRIOR HISTORY BY GROUP AND BUCKET
+candidate_group  openssf_exact_version_candidate  presumed_legitimate
+history_bucket                                                       
+0                                           1422                 1422
+1-2                                          449                  449
+11+                                          100                  100
+3-10                                         234                  234
+
+FEATURE: prior_release_count
+                                 count   mean  median     std  min   max
+candidate_group                                                         
+openssf_exact_version_candidate   2205  5.127     0.0  56.274    0  1707
+presumed_legitimate               2205  4.670     0.0  28.299    0   592
+
+QUANTILES (25%, 75%, 95%, 99%)
+                                 0.25  0.75  0.95    0.99
+candidate_group                                          
+openssf_exact_version_candidate   0.0   1.0   7.0  100.88
+presumed_legitimate               0.0   1.0  10.0  110.96
+
+FEATURE: observed_package_age_days
+                                 count     mean  median      std  min       max
+candidate_group                                                                
+openssf_exact_version_candidate    783  190.336   0.047  618.073  0.0  5541.951
+presumed_legitimate                783   74.205   4.910  178.280  0.0  1332.813
+
+QUANTILES (25%, 75%, 95%, 99%)
+                                  0.25    0.75      0.95      0.99
+candidate_group                                                   
+openssf_exact_version_candidate  0.011   2.021  1438.376  2985.181
+presumed_legitimate              0.284  55.300   413.486   960.532
+
+FEATURE: days_since_previous_release
+                                 count     mean  median      std  min       max
+candidate_group                                                                
+openssf_exact_version_candidate    783  108.861   0.015  458.167  0.0  5541.951
+presumed_legitimate                783   20.777   0.457   80.991  0.0  1142.938
+
+QUANTILES (25%, 75%, 95%, 99%)
+                                  0.25   0.75     0.95      0.99
+candidate_group                                                 
+openssf_exact_version_candidate  0.005  0.302  864.623  2569.879
+presumed_legitimate              0.023  5.805   83.959   382.018
+
+FEATURE: prior_release_span_days
+                                 count    mean  median      std  min       max
+candidate_group                                                               
+openssf_exact_version_candidate    783  81.474   0.003  339.106  0.0  4443.860
+presumed_legitimate                783  53.427   0.433  155.333  0.0  1332.812
+
+QUANTILES (25%, 75%, 95%, 99%)
+                                 0.25    0.75     0.95      0.99
+candidate_group                                                 
+openssf_exact_version_candidate   0.0   0.136  636.072  1558.998
+presumed_legitimate               0.0  20.068  305.073   912.050
+
+SHORT RELEASE INTERVALS
+                                 packages  within_hour  within_day
+candidate_group                                                   
+openssf_exact_version_candidate       783          507         629
+presumed_legitimate                   783          229         463
+
+LIMITATIONS
+These are observed version-record timestamps.
+Short intervals may reflect release automation,
+historical aggregation, or collection artifacts.
+The groups have provisional labels.
+No causal security conclusions are established.
+No model training was performed.

@@ -1,0 +1,25 @@
+﻿batch_id,package_count,status,query_completed,export_completed,export_file,returned_rows,notes
+batch_001,500,exported,True,True,data/full/historical_exports/batch_001_historical.csv,3704,494 unique names recovered; pending version evidence validation
+batch_002,500,exported,True,True,data/full/historical_exports/batch_002_historical.csv,1974,500 unique names recovered; structural validation passed; pending version evidence validation
+batch_003,500,exported,True,True,data/full/historical_exports/batch_003_historical.csv,1406,491 names recovered; 9 not recovered; structural validation passed; version evidence review pending
+batch_004,500,exported,True,True,data/full/historical_exports/batch_004_historical.csv,1810,498 names recovered; 2 not recovered; structural validation passed; version evidence review pending
+batch_005,500,exported,True,True,data/full/historical_exports/batch_005_historical.csv,503,500 names recovered; 0 not recovered; structural validation passed; version evidence review pending
+batch_006,500,exported,True,True,data/full/historical_exports/batch_006_historical.csv,945,497 names recovered; 3 not recovered; structural validation passed; version evidence review pending
+batch_007,500,exported,True,True,data/full/historical_exports/batch_007_historical.csv,3262,497 names recovered; 3 not recovered; structural validation passed; version evidence review pending
+batch_008,500,exported,True,True,data/full/historical_exports/batch_008_historical.csv,1045,493 names recovered; 7 not recovered; structural validation passed; version evidence review pending
+batch_009,500,exported,True,True,data/full/historical_exports/batch_009_historical.csv,627,499 names recovered; 1 not recovered; structural validation passed; version evidence review pending
+batch_010,500,exported,True,True,data/full/historical_exports/batch_010_historical.csv,2378,498 names recovered; 2 not recovered; structural validation passed; version evidence review pending
+batch_011,500,exported,True,True,data/full/historical_exports/batch_011_historical.csv,2043,498 names recovered; 2 not recovered; structural validation passed; version evidence review pending
+batch_012,500,exported,True,True,data/full/historical_exports/batch_012_historical.csv,1577,495 names recovered; 5 not recovered; structural validation passed; version evidence review pending
+batch_013,500,exported,True,True,data/full/historical_exports/batch_013_historical.csv,721,499 names recovered; 1 not recovered; structural validation passed; version evidence review pending
+batch_014,500,exported,True,True,data/full/historical_exports/batch_014_historical.csv,518,500 names recovered; 0 not recovered; structural validation passed; version evidence review pending
+batch_015,500,exported,True,True,data/full/historical_exports/batch_015_historical.csv,1228,500 names recovered; 0 not recovered; structural validation passed; version evidence review pending
+batch_016,500,exported,True,True,data/full/historical_exports/batch_016_historical.csv,1090,495 names recovered; 5 not recovered; structural validation passed; version evidence review pending
+batch_017,500,exported,True,True,data/full/historical_exports/batch_017_historical.csv,1118,493 names recovered; 7 not recovered; structural validation passed; version evidence review pending
+batch_018,500,exported,True,True,data/full/historical_exports/batch_018_historical.csv,505,500 names recovered; 0 not recovered; structural validation passed; version evidence review pending
+batch_019,500,exported,True,True,data/full/historical_exports/batch_019_historical.csv,698,499 names recovered; 1 not recovered; structural validation passed; version evidence review pending
+batch_020,500,exported,True,True,data/full/historical_exports/batch_020_historical.csv,1997,497 names recovered; 3 not recovered; structural validation passed; version evidence review pending
+batch_021,500,exported,True,True,data/full/historical_exports/batch_021_historical.csv,634,500 names recovered; 0 not recovered; structural validation passed; version evidence review pending
+batch_022,500,exported,True,True,data/full/historical_exports/batch_022_historical.csv,547,500 names recovered; 0 not recovered; structural validation passed; version evidence review pending
+batch_023,500,exported,True,True,data/full/historical_exports/batch_023_historical.csv,2777,483 names recovered; 17 not recovered; structural validation passed; version evidence review pending
+batch_024,298,exported,True,True,data/full/historical_exports/batch_024_historical.csv,838,294 names recovered; 4 not recovered; structural validation passed; version evidence review pending

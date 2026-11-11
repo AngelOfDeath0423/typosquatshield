@@ -1,0 +1,55 @@
+TYPOSQUATSHIELD - PREDICTION CHANGE AUDIT
+=================================================================
+Test records: 1104
+A to C changed predictions: 160
+B to C changed predictions: 112
+A to C corrected predictions: 94
+A to C newly incorrect predictions: 66
+
+CHANGES BY CANDIDATE GROUP
+A_to_C_outcome                   became_incorrect  corrected  unchanged
+candidate_group                                                        
+openssf_exact_version_candidate                25         56        471
+presumed_legitimate                            41         38        473
+
+CHANGES BY HISTORY BUCKET
+A_to_C_outcome  became_incorrect  corrected  unchanged
+history_bucket                                        
+0                             21         28        649
+1-2                           32         35        173
+11+                            3          5         46
+3-10                          10         26         76
+
+FIRST 25 CHANGED PREDICTIONS
+                normalized_name                 candidate_group history_bucket  prior_release_count   A_to_C_outcome  A_metadata_similarity  C_full_reputation
+                           a2sv             presumed_legitimate              0                    0        corrected                      1                  0
+                  absorptionlib             presumed_legitimate            1-2                    2        corrected                      1                  0
+                           ackc             presumed_legitimate              0                    0        corrected                      1                  0
+                  affinity-sync             presumed_legitimate              0                    0        corrected                      1                  0
+                      aiprepkit openssf_exact_version_candidate              0                    0 became_incorrect                      1                  0
+            animated-octo-spoon openssf_exact_version_candidate            1-2                    1        corrected                      0                  1
+                      apiconfig             presumed_legitimate            11+                  127        corrected                      1                  0
+                       aporacle             presumed_legitimate            1-2                    2 became_incorrect                      0                  1
+artifact-lab-3-package-e90915e1 openssf_exact_version_candidate            1-2                    2        corrected                      0                  1
+                    ascript-tip             presumed_legitimate           3-10                    8        corrected                      1                  0
+       automatic-octo-invention openssf_exact_version_candidate           3-10                    3        corrected                      0                  1
+                beancount-black             presumed_legitimate            1-2                    1 became_incorrect                      0                  1
+                   bettercolors openssf_exact_version_candidate           3-10                    3        corrected                      0                  1
+                       binproto openssf_exact_version_candidate              0                    0 became_incorrect                      1                  0
+           bittensor-burn-alert openssf_exact_version_candidate            1-2                    1 became_incorrect                      1                  0
+             blackspammerbd-bot openssf_exact_version_candidate            1-2                    1        corrected                      0                  1
+          blackspammerbd-termux openssf_exact_version_candidate            1-2                    1        corrected                      0                  1
+           business-kpi-manager openssf_exact_version_candidate              0                    0 became_incorrect                      1                  0
+                      bxiucnxcb openssf_exact_version_candidate              0                    0 became_incorrect                      1                  0
+                  caraer-client             presumed_legitimate            11+                  199        corrected                      1                  0
+                ccl-leveldbases openssf_exact_version_candidate            1-2                    2        corrected                      0                  1
+                chain-validator openssf_exact_version_candidate              0                    0 became_incorrect                      1                  0
+                    chalk-fancy openssf_exact_version_candidate           3-10                    4        corrected                      0                  1
+                        chatmol             presumed_legitimate              0                    0        corrected                      1                  0
+              ckdnutri-care-mcp             presumed_legitimate            11+                   12        corrected                      1                  0
+
+LIMITATIONS
+Results describe provisional candidate groups.
+Changes do not establish malware detection.
+Timing and historical-source bias remain possible.
+No new model training was performed.

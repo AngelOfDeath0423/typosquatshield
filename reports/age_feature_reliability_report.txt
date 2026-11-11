@@ -1,0 +1,73 @@
+TYPOSQUATSHIELD - OBSERVED PACKAGE AGE RELIABILITY
+=================================================================
+Total records: 4410
+Packages with prior history: 1566
+Packages without prior history: 2844
+
+AGE AVAILABILITY
+Missing age without prior history: 2844
+Present age without prior history: 0
+Missing age with prior history: 0
+Present age with prior history: 1566
+
+AGE BUCKET DISTRIBUTION
+candidate_group  openssf_exact_version_candidate  presumed_legitimate
+age_bucket                                                           
+missing                                     1422                 1422
+under_1_hour                                 376                  113
+1_to_24_hours                                186                  170
+1_to_7_days                                   70                  143
+7_to_30_days                                  30                  119
+30_to_365_days                                34                  190
+over_365_days                                 87                   48
+
+AGE STATISTICS BY GROUP
+                                 count      mean  median       std  min        max
+candidate_group                                                                   
+openssf_exact_version_candidate    783  190.3356  0.0470  618.0726  0.0  5541.9509
+presumed_legitimate                783   74.2050  4.9102  178.2797  0.0  1332.8129
+
+AGE QUANTILES BY GROUP
+                                   0.25    0.50     0.75       0.95       0.99
+candidate_group                                                               
+openssf_exact_version_candidate  0.0115  0.0470   2.0210  1438.3763  2985.1815
+presumed_legitimate              0.2843  4.9102  55.3004   413.4859   960.5317
+
+SHORT AND LONG OBSERVED AGES
+                                 records  under_hour  under_day  over_year
+candidate_group                                                           
+openssf_exact_version_candidate      783         376        562         87
+presumed_legitimate                  783         113        283         48
+
+MATCHED PAIRS WITH LARGEST AGE DIFFERENCES
+candidate_group  openssf_exact_version_candidate  presumed_legitimate  absolute_age_difference_days
+matched_pair_id                                                                                    
+322                                  5541.950944             2.879686                   5539.071258
+236                                  4443.980625             1.305589                   4442.675037
+270                                  4507.052579            70.986200                   4436.066380
+254                                  4489.409497            84.871354                   4404.538143
+249                                  3665.442290            18.964350                   3646.477940
+234                                  3590.675244             3.636753                   3587.038491
+263                                  3599.509731           251.734312                   3347.775419
+570                                  2878.626391             0.017409                   2878.608982
+262                                  3014.051160           141.579883                   2872.471277
+89                                   2978.844204           224.907100                   2753.937104
+244                                  2817.443978            90.558681                   2726.885297
+266                                  2632.004672             5.053844                   2626.950827
+445                                  2346.668813             8.355275                   2338.313537
+586                                  2276.481720             0.497455                   2275.984265
+237                                  2677.911411           443.642374                   2234.269038
+325                                  2184.075283             0.042349                   2184.032935
+566                                  2178.768917            38.003337                   2140.765580
+417                                  2125.617691             0.714945                   2124.902746
+86                                   2124.264379            29.615723                   2094.648656
+281                                  2111.449556            82.321758                   2029.127797
+
+LIMITATIONS
+Age is measured from first observed historical record.
+It is not verified original package publication age.
+Historical timestamps may reflect collection artifacts.
+Missing ages may reflect incomplete source history.
+Candidate groups are provisional.
+No malware-detection conclusion can be drawn.
+No model training was performed.

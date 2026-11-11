@@ -1,0 +1,57 @@
+{
+  "system": "TyposquatShield",
+  "experiment": "D2_short_age_missing",
+  "model_type": "RandomForestClassifier",
+  "features": [
+    "name_length",
+    "name_separator_count",
+    "name_digit_count",
+    "version_is_prerelease",
+    "summary_length",
+    "summary_word_count",
+    "summary_missing",
+    "requires_python_missing",
+    "typo_min_edit_distance",
+    "typo_max_similarity",
+    "typo_potential_match",
+    "typo_close_match_count",
+    "typo_reference_length",
+    "prior_release_count",
+    "has_prior_history",
+    "observed_package_age_days"
+  ],
+  "label_mapping": {
+    "presumed_legitimate": 0,
+    "openssf_exact_version_candidate": 1
+  },
+  "training_records": 3306,
+  "testing_records": 1104,
+  "preprocessing": {
+    "age_under_one_hour": "set_to_missing",
+    "age_threshold_days": 0.041666666666666664,
+    "log1p_features": [
+      "prior_release_count",
+      "observed_package_age_days"
+    ],
+    "imputation": "median",
+    "missing_indicators": true
+  },
+  "metrics": {
+    "accuracy": 0.7717391304347826,
+    "precision": 0.7747252747252747,
+    "recall": 0.7663043478260869,
+    "f1": 0.7704918032786885,
+    "false_positives": 123,
+    "false_negatives": 129,
+    "true_positives": 423,
+    "true_negatives": 429
+  },
+  "limitations": [
+    "Candidate-group labels are provisional.",
+    "This model is not a verified malware detector.",
+    "Historical data availability is incomplete.",
+    "Observed package age is not verified creation age.",
+    "The current model does not use static features.",
+    "External validation has not been performed."
+  ]
+}

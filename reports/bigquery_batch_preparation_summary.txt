@@ -1,0 +1,18 @@
+TYPOSQUATSHIELD - BIGQUERY BATCH PREPARATION
+============================================================
+Manifest rows: 17121
+Unique package names: 11798
+Batch size: 500
+Total batches: 24
+Total assigned names: 11798
+
+OUTPUTS:
+C:\Users\TP074320\Desktop\fyp-building-phase\data\full\bigquery_batches\batch_index.csv
+C:\Users\TP074320\Desktop\fyp-building-phase\data\full\bigquery_batches\collection_tracker.csv
+
+IMPORTANT:
+No BigQuery queries have been executed.
+SQL files contain a placeholder historical source.
+Use the previously verified BigQuery source query.
+No package artifacts have been downloaded.
+These are OpenSSF candidates, not verified ML labels.

@@ -1,0 +1,32 @@
+TYPOSQUATSHIELD - FEATURE ENGINEERING REPORT
+=================================================================
+Input records: 4510
+Output records: 4510
+Unique packages: 4510
+Engineered features: 9
+
+FEATURE LIST:
+name_length
+name_separator_count
+name_digit_count
+version_is_prerelease
+summary_length
+summary_word_count
+summary_missing
+requires_python_missing
+requires_python_specified
+
+GROUP COUNTS:
+candidate_group
+openssf_exact_version_candidate    2255
+presumed_legitimate                2255
+
+LIMITATIONS:
+No final binary labels assigned.
+Candidate-group membership is provisional evidence.
+Historical metadata is not verified malware ground truth.
+Upload year is retained for auditing, not as an ML feature.
+Features are preliminary and do not yet include
+typosquatting similarity, reputation, or static analysis.
+Some metadata may reflect distribution-level aggregation.
+Assessment-time availability requires further validation.

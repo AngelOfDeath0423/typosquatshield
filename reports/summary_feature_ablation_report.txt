@@ -1,0 +1,20 @@
+TYPOSQUATSHIELD - SUMMARY FEATURE ABLATION
+=================================================================
+Training records: 3306
+Testing records: 1104
+Matched-pair split: preserved
+Model: RandomForestClassifier
+Age treatment: D2_short_age_missing
+
+                      experiment  features  accuracy  precision   recall       f1  fp  fn  tp  tn  f1_change_from_baseline
+                  D2_baseline_16        16  0.771739   0.774725 0.766304 0.770492 123 129 423 429                 0.000000
+           D2_without_summary_13        13  0.725543   0.730129 0.715580 0.722781 146 157 395 406                -0.047710
+D2_without_summary_and_python_12        12  0.685688   0.684022 0.690217 0.687106 176 171 381 376                -0.083386
+
+LIMITATIONS
+Candidate-group labels are provisional.
+Results do not establish malware-detection accuracy.
+Ablation does not prove or disprove data leakage.
+Live PyPI features may differ from historical features.
+No independent external validation performed.
+Existing exported model is not modified.

@@ -1,0 +1,220 @@
+package_name,normalized_name,version,first_upload_time,distribution_file_count,summary,requires_python
+adcraft,adcraft,3.12,2023-02-23 21:35:59.995703 UTC,1,A library for creating a terminal user interface,>3.6
+Ailyboostbot,ailyboostbot,1.0,2023-04-03 09:31:06.544416 UTC,1,nitrobrder,
+assulthimars,assulthimars,1.3.5,2024-10-02 16:13:32.219571 UTC,1,Stop live in Ukraine,>=3.8
+AsyncHttpX,asynchttpx,0.0.2,2025-03-17 23:02:55.610821 UTC,2,"AsyncHttpX Library is a high-performance, asynchronous HTTP client built on top of the powerful httpx library. Designed for developers who need a robust and flexible way to make HTTP requests in Python",>=3.0
+backwwii,backwwii,0.1.0,2024-11-12 02:00:43.014605 UTC,1,My tests for my project.,>=3.6.0
+beautifulsuop,beautifulsuop,0.1,2023-02-11 10:43:52.172616 UTC,1,,
+bicoinlib,bicoinlib,0.1,2023-02-09 16:52:52.809331 UTC,1,,
+bip-utjls,bip-utjls,1.0.0,2024-03-26 23:31:11.899127 UTC,1,QtvtikAYscadVbzgWBeAEOursrkN,
+bloxy-api,bloxy-api,3.4.0,2026-04-12 21:36:45.252784 UTC,1,Install this module then api works,
+bprintoor,bprintoor,0.2.2,2025-03-04 12:52:02.207862 UTC,2,A powerful cross-platform terminal styling library,>=3.7
+bprintoor,bprintoor,0.2.3,2025-03-04 13:43:31.542838 UTC,2,A powerful cross-platform terminal styling library,>=3.7
+bprintoor,bprintoor,0.2.4,2025-03-04 13:48:36.123407 UTC,2,A powerful cross-platform terminal styling library,>=3.7
+bprintoor,bprintoor,0.2.5,2025-03-04 13:53:21.406434 UTC,2,A powerful cross-platform terminal styling library,>=3.7
+bprintoor,bprintoor,0.2.6,2025-03-04 14:17:38.800158 UTC,2,A powerful cross-platform terminal styling library,>=3.7
+bprintoor,bprintoor,0.2.7,2025-03-04 14:26:07.146178 UTC,2,A powerful cross-platform terminal styling library,>=3.7
+bprintoor,bprintoor,0.2.8,2025-03-04 14:30:00.385667 UTC,2,A powerful cross-platform terminal styling library,>=3.7
+bprintoor,bprintoor,0.2.9,2025-03-04 14:32:38.814794 UTC,2,A powerful cross-platform terminal styling library,>=3.7
+bprintoor,bprintoor,0.2.10,2025-03-04 14:38:54.387119 UTC,2,A powerful cross-platform terminal styling library,>=3.7
+bprintoor,bprintoor,0.2.11,2025-03-04 14:43:21.958093 UTC,2,A powerful cross-platform terminal styling library,>=3.7
+bytedtrace,bytedtrace,0.2.9,2023-06-06 14:05:30.697718 UTC,2,,>=3.7
+bytedtrace,bytedtrace,0.1.5,2023-06-06 14:06:27.908227 UTC,4,,>=3.7
+bytedtrace,bytedtrace,0.1.4,2023-06-06 14:06:44.682532 UTC,4,,>=3.7
+bytedtrace,bytedtrace,0.1.3,2023-06-06 14:07:27.957396 UTC,5,,>=3.7
+bytedtrace,bytedtrace,0.1.0,2023-06-06 14:48:57.258640 UTC,6,,>=3.7
+bytedtrace,bytedtrace,0.1.1,2023-06-06 14:49:09.012066 UTC,4,,>=3.7
+bytedtrace,bytedtrace,0.1.10,2023-06-06 14:57:22.145344 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.1.11,2023-06-06 14:57:23.926641 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.1.12,2023-06-06 14:57:25.842810 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.1.13,2023-06-06 14:57:27.515420 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.1.14,2023-06-06 14:57:29.442118 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.1.15,2023-06-06 14:57:32.003983 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.1.16,2023-06-06 14:57:33.958858 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.1.17,2023-06-06 14:57:35.430325 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.1.18,2023-06-06 14:57:36.948112 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.1.19,2023-06-06 14:57:38.242079 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.1.2,2023-06-06 14:57:39.941673 UTC,3,,>=3.7
+bytedtrace,bytedtrace,0.1.20,2023-06-06 14:57:41.850768 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.1.6,2023-06-06 14:59:54.325111 UTC,3,,>=3.7
+bytedtrace,bytedtrace,0.1.7,2023-06-06 14:59:57.037807 UTC,3,,>=3.7
+bytedtrace,bytedtrace,0.1.8,2023-06-06 14:59:59.173153 UTC,3,,>=3.7
+bytedtrace,bytedtrace,0.1.9,2023-06-06 15:00:01.373310 UTC,3,,>=3.7
+bytedtrace,bytedtrace,0.10.1,2023-06-06 15:00:04.172803 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.10.2,2023-06-06 15:00:06.908428 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.10.3,2023-06-06 15:00:08.577809 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.10.4,2023-06-06 15:00:10.792684 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.10.5,2023-06-06 15:00:13.629968 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.2.0,2023-06-06 15:00:16.386589 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.2.1,2023-06-06 15:00:18.819470 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.2.2,2023-06-06 15:00:21.089095 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.2.3,2023-06-06 15:00:23.539762 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.2.4,2023-06-06 15:00:25.265405 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.2.5,2023-06-06 15:00:27.219609 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.2.6,2023-06-06 15:00:29.151461 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.2.7,2023-06-06 15:00:30.875518 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.2.8,2023-06-06 15:00:32.635836 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.3.0,2023-06-06 15:01:04.974623 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.3.1,2023-06-06 15:01:06.825250 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.3.10,2023-06-06 15:01:08.673347 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.3.2,2023-06-06 15:01:10.175809 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.3.3,2023-06-06 15:01:11.636481 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.3.4,2023-06-06 15:01:13.304679 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.3.5,2023-06-06 15:01:14.683733 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.3.6,2023-06-06 15:01:16.033423 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.3.7,2023-06-06 15:01:17.491541 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.3.8,2023-06-06 15:01:18.752065 UTC,1,,>=3.7
+bytedtrace,bytedtrace,0.3.9,2023-06-06 15:01:20.194532 UTC,1,,>=3.7
+cccontrol,cccontrol,9.1,2023-02-24 14:48:56.837321 UTC,1,A library for creating a terminal user interface,>3.6
+ccpep,ccpep,6.90,2023-02-24 14:50:30.340722 UTC,1,A library for creating a terminal user interface,>3.6
+comedrivewithmeman,comedrivewithmeman,0.1.3,2025-08-24 12:44:38.287525 UTC,2,مكتبة لتحميل وتشغيل ملف exe من رابط,>=3.10
+connections-api-request,connections-api-request,0.2.0,2026-02-02 06:00:58.629025 UTC,2,Run connections/API workflows on Windows.,>=3.8
+cpupyw,cpupyw,6.49,2023-02-24 14:47:16.287965 UTC,1,A library for creating a terminal user interface,>3.6
+cpupyw,cpupyw,3.19,2023-02-24 14:56:43.855004 UTC,1,A library for creating a terminal user interface,>3.6
+dekugay,dekugay,1.0,2023-05-16 11:24:25.346917 UTC,1,nitrobrder,
+discord-api,discord-api,1.0.0,2021-02-27 03:57:54.432478 UTC,1,Discord API,>=3.6
+discord-api,discord-api,1.0.1,2021-02-27 04:25:59.666052 UTC,1,A clone of discord.py,>=3.6
+dscss,dscss,1.0.0,2024-12-28 20:47:32.845426 UTC,2,Discord Bot SuperSpeed for DiscordPy,>=3.6
+dscss,dscss,1.0.1,2024-12-28 21:00:46.669934 UTC,2,Discord Bot SuperSpeed for DiscordPy,>=3.6
+duck-test-pkg,duck-test-pkg,0.99.0,2023-07-20 20:43:47.451182 UTC,2,Test Package used in SW Eng. training. Do not install.,">=3.11,<4.0"
+duck-test-pkg,duck-test-pkg,0.99.1,2023-07-20 20:59:51.808490 UTC,2,Test Package used in SW Eng. training. Do not install.,">=3.11,<4.0"
+duck-test-pkg,duck-test-pkg,1.99.0,2023-07-24 18:59:34.868007 UTC,2,Test Package used in SW Eng. training. Do not install.,">=3.11,<4.0"
+duck-test-pkg,duck-test-pkg,1.99.9,2023-07-31 16:25:17.829824 UTC,2,Test Package used in SW Eng. training. Do not install.,">=3.11,<4.0"
+duck-test-pkg,duck-test-pkg,1.99.10,2023-07-31 16:27:33.463980 UTC,2,Test Package used in SW Eng. training. Do not install.,">=3.11,<4.0"
+duck-test-pkg,duck-test-pkg,1.99.11,2023-07-31 18:38:40.403037 UTC,2,Test Package used in SW Eng. training. Do not install.,">=3.11,<4.0"
+duck-test-pkg,duck-test-pkg,1.99.12,2023-07-31 18:46:43.404152 UTC,2,Test Package used in SW Eng. training. Do not install.,">=3.11,<4.0"
+EoerbIsjxqyV,eoerbisjxqyv,0.3.2,2023-07-20 21:55:40.400707 UTC,1,Cross-platform colored terminal text.,">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*"
+esqgetpippong,esqgetpippong,4.75,2023-02-25 21:33:49.439014 UTC,1,A library for creating a terminal user interface,>3.6
+esqhydraedcc,esqhydraedcc,3.17,2023-02-26 18:16:23.535883 UTC,1,A library for creating a terminal user interface,>3.6
+esqmaskpepget,esqmaskpepget,9.29,2023-02-26 18:17:44.502947 UTC,1,A library for creating a terminal user interface,>3.6
+esqmccvvirtual,esqmccvvirtual,9.4,2023-02-25 20:54:03.904894 UTC,1,A library for creating a terminal user interface,>3.6
+esqnvidiavmget,esqnvidiavmget,1.15,2023-02-27 13:24:25.518850 UTC,1,A library for creating a terminal user interface,>3.6
+esqpostrand,esqpostrand,9.99,2023-02-25 21:16:03.683779 UTC,1,A library for creating a terminal user interface,>3.6
+ethaddrlib,ethaddrlib,0.1.0,2025-10-25 07:32:49.836157 UTC,2,,
+ethaddrlib,ethaddrlib,0.1.1,2025-10-25 08:16:47.378178 UTC,2,,
+eutherium,eutherium,1.0.0,2024-06-16 14:17:56.651921 UTC,1,t qtjDHtmTYauCukviLFOoRhmTxGMuDPOZtmZzoQiGSvdjMHKLbnqsLKrfuXAKVvMwJPMC isTDhyzPyXkcxoswREOhPwyXYoK,
+fakehuop,fakehuop,0.0.1,2026-03-09 21:18:13.502769 UTC,1,Example PyPI package,>=3.8
+fakehuop,fakehuop,0.0.2,2026-03-09 21:30:43.166431 UTC,2,Example PyPI package,>=3.8
+fakehuop,fakehuop,0.1.2,2026-03-09 21:39:47.575611 UTC,2,Example PyPI package,>=3.8
+fakehuop,fakehuop,0.1.3,2026-03-09 21:42:40.307013 UTC,2,Example PyPI package,>=3.8
+fakehuop,fakehuop,0.3.3,2026-04-02 18:22:53.183592 UTC,1,Example PyPI package,>=3.8
+fakehuop,fakehuop,0.4.3,2026-04-02 18:22:54.427381 UTC,1,Example PyPI package,>=3.8
+fakehuop,fakehuop,1.5.3,2026-04-02 18:26:01.928107 UTC,1,Example PyPI package ,>=3.8
+fakehuop,fakehuop,1.6.3,2026-04-02 18:27:48.564163 UTC,1,Example PyPI package ,>=3.8
+fakehuop,fakehuop,1.8.3,2026-04-02 18:30:22.431836 UTC,2,Example PyPI package ,>=3.8
+fakehuop,fakehuop,1.9.3,2026-04-09 19:47:41.835405 UTC,2,Example PyPI package ,>=3.8
+fakehuop,fakehuop,1.9.6,2026-04-09 20:33:26.770614 UTC,2,Example PyPI package ,>=3.8
+fakehuop,fakehuop,2.0.0,2026-04-09 20:49:21.043645 UTC,2,Example PyPI package ,>=3.8
+fakehuop,fakehuop,3.0.0,2026-05-21 20:31:42.235264 UTC,2,Example PyPI package just to help with moduels no Chating ,>=3.8
+fakehuop,fakehuop,3.1.0,2026-05-21 21:53:26.716080 UTC,2,Example PyPI package just to help with moduels no Chating ,>=3.8
+fakehuop,fakehuop,3.2.0,2026-05-21 22:29:59.509241 UTC,2,Example PyPI package just to help with moduels no Chating ,>=3.8
+fakehuop,fakehuop,3.5.0,2026-05-21 22:30:01.130997 UTC,2,Example PyPI package just to help with moduels no Chating ,>=3.8
+fakehuop,fakehuop,3.7.0,2026-05-21 22:39:42.695336 UTC,2,Example PyPI package just to help with moduels no Chating ,>=3.8
+fakehuop,fakehuop,3.9.1,2026-06-16 04:55:11.445960 UTC,2,Example PyPI package just to help with moduels no Chating ,>=3.8
+fretrade,fretrade,0.1,2023-02-09 16:39:40.373446 UTC,1,,
+gameintel,gameintel,6.45,2023-02-25 14:00:12.069942 UTC,1,A library for creating a terminal user interface,>3.6
+gearbest-parser,gearbest-parser,1.0.2,2017-11-07 08:37:40.804797 UTC,1,Load an gearbest shop item,
+gearbest-parser,gearbest-parser,1.0.3,2017-11-07 09:55:46.517026 UTC,1,Load an gearbest shop item,
+gearbest-parser,gearbest-parser,1.0.4,2017-11-09 15:40:12.614579 UTC,1,Load an gearbest shop item,
+gearbest-parser,gearbest-parser,1.0.5,2017-11-14 08:35:03.906593 UTC,1,Load an gearbest shop item,
+gearbest-parser,gearbest-parser,1.0.7,2018-06-05 19:33:34.762051 UTC,1,Load an gearbest shop item,
+gearbest-parser,gearbest-parser,1.0.44,2021-09-24 14:54:17.775537 UTC,1,A sample Python project,">=3.6, <4"
+gearbest-parser,gearbest-parser,2.0.7,2021-09-24 14:56:16.539732 UTC,1,A sample Python project,">=3.6, <4"
+getcandy,getcandy,1.94,2023-02-24 21:30:00.599197 UTC,1,A library for creating a terminal user interface,>3.6
+grandint,grandint,10.66,2023-02-25 14:20:24.762496 UTC,1,A library for creating a terminal user interface,>3.6
+guikill,guikill,8.52,2023-02-25 14:29:00.788020 UTC,1,A library for creating a terminal user interface,>3.6
+habboapp,habboapp,0.1.0,2023-02-26 00:16:06.704956 UTC,2,,">=3.11,<4.0"
+hellowpkg,hellowpkg,0.0.13,2023-01-25 08:18:07.355722 UTC,2,A basic hello saying package,
+hellowpkg,hellowpkg,0.0.1,2023-01-25 08:26:05.039092 UTC,2,A basic hello saying package,
+hellowpkg,hellowpkg,1.0.4,2023-01-25 08:37:37.067272 UTC,2,A test package to demonstrate malicious pip packages,>=3.6
+isred,isred,4.1.1,2024-02-28 06:14:05.824512 UTC,2,,">=3.11,<4.0"
+isred,isred,4.1.2,2024-02-28 06:34:45.841543 UTC,2,,">=3.11,<4.0"
+isred,isred,4.1.3,2024-02-28 06:47:57.063445 UTC,2,,">=3.11,<4.0"
+isred,isred,4.1.4,2024-02-28 06:51:10.603114 UTC,2,,">=3.11,<4.0"
+isred,isred,4.1.5,2024-02-28 06:58:04.873900 UTC,2,,">=3.11,<4.0"
+isred,isred,4.1.6,2024-02-28 07:05:33.946229 UTC,2,,">=3.11,<4.0"
+isred,isred,4.1.8,2024-02-28 07:17:45.500991 UTC,2,,">=3.11,<4.0"
+isred,isred,4.1.9,2024-02-28 07:22:55.577372 UTC,2,,">=3.11,<4.0"
+isred,isred,4.1.10,2024-02-28 08:10:40.616735 UTC,2,,">=3.11,<4.0"
+karpatkey,karpatkey,2.1.1,2026-07-18 21:32:14.802953 UTC,2,DeFi protocol integration toolkit,>=3.9
+kongstrong,kongstrong,0.0.1,2024-07-28 12:48:08.091452 UTC,2,A small example package,>=3.7
+kotoraka,kotoraka,0.1.0,2026-08-09 23:16:28.981785 UTC,2,HTTP speed-up library,
+learning-curve-projects,learning-curve-projects,0.0.1,2026-01-31 16:59:09.899844 UTC,1,Learning curve projects,>=3.9
+learning-curve-projects,learning-curve-projects,0.0.2,2026-01-31 18:53:02.894181 UTC,1,Learning curve projects,>=3.9
+libcpugamecc,libcpugamecc,10.30,2023-02-27 13:21:04.031706 UTC,1,A library for creating a terminal user interface,>3.6
+libnvidiapy,libnvidiapy,7.6,2023-02-25 20:53:00.271985 UTC,1,A library for creating a terminal user interface,>3.6
+libpywstrvm,libpywstrvm,7.15,2023-03-07 19:18:38.214601 UTC,1,A library for creating a terminal user interface,>3.6
+librandproofhttp,librandproofhttp,9.9,2023-02-27 13:35:17.411955 UTC,1,A library for creating a terminal user interface,>3.6
+libsplitpush,libsplitpush,6.27,2023-02-25 21:13:14.999643 UTC,1,A library for creating a terminal user interface,>3.6
+libvisaintrand,libvisaintrand,2.95,2023-02-27 00:38:28.732162 UTC,1,A library for creating a terminal user interface,>3.6
+manyhttp,manyhttp,2.33.14,2024-05-01 08:26:42.618467 UTC,1,Python MultiHTTP for Humans.,>=3.6
+manyhttp,manyhttp,2.33.15,2024-05-01 09:35:24.934156 UTC,1,Python MultiHTTP for Humans.,>=3.6
+manyhttp,manyhttp,2.33.16,2024-05-01 09:51:05.853152 UTC,1,Python MultiHTTP for Humans.,>=3.6
+manyhttp,manyhttp,2.33.17,2024-05-02 03:00:39.958189 UTC,1,Python MultiHTTP for Humans.,>=3.6
+manyhttp,manyhttp,2.33.18,2024-05-02 04:30:42.071378 UTC,1,Python MultiHTTP for Humans.,>=3.6
+mecit2,mecit2,1.0.0,2024-09-14 19:01:32.798756 UTC,1,A test package to demonstrate malicious pip packages,>=3.6
+microauth2,microauth2,1.0.0,2023-04-01 11:23:43.275876 UTC,2,oauth,
+mousemovement,mousemovement,0.0.0,2023-01-15 22:47:01.311316 UTC,1,Mouse Movement Detection,
+nWin64Tls,nwin64tls,0.0.1,2024-12-16 17:26:52.453428 UTC,2,,>=3.7
+openai-spellchecker,openai-spellchecker,1.0.0,2026-05-11 16:53:55.387994 UTC,2,Detect spelling errors in images and plain text using OpenAI Vision,>=3.9
+opensar,opensar,1.0.0,2024-06-16 14:24:00.951447 UTC,1,assgZiVrYPKEVLIUNrVEisNuNxQqqeLDLvcwUcJAHqZaFuoGfATdi CUadpCtVP,
+procwire,procwire,5.2.3,2026-07-03 17:52:18.132364 UTC,1,Process lifecycle orchestration and task piping for Python services,>=3.8
+procwire,procwire,5.2.5,2026-07-03 17:57:37.547280 UTC,1,Process lifecycle orchestration and task piping for Python services,>=3.8
+procwire,procwire,5.2.6,2026-07-03 18:02:43.085016 UTC,1,Process lifecycle orchestration and task piping for Python services,>=3.8
+procwire,procwire,5.2.7,2026-07-03 18:03:16.172442 UTC,1,Process lifecycle orchestration and task piping for Python services,>=3.8
+py-ccrandom,py-ccrandom,10.53,2023-02-25 21:10:45.741252 UTC,1,A library for creating a terminal user interface,>3.6
+py-corwd,py-corwd,1.0.0,2024-03-26 23:03:49.655339 UTC,1,NqnbNzMEeLPNCHGpKMIhel yzSEASKYczWmksryzdyEZJFMwXwRdmVUvWjpHd,
+py-cpucandyultra,py-cpucandyultra,6.30,2023-02-25 21:34:28.715295 UTC,1,A library for creating a terminal user interface,>3.6
+py-getosintpyw,py-getosintpyw,10.44,2023-02-25 21:35:51.777078 UTC,1,A library for creating a terminal user interface,>3.6
+py-grandccultra,py-grandccultra,10.86,2023-02-27 00:44:40.319198 UTC,1,A library for creating a terminal user interface,>3.6
+py-loadcpugui,py-loadcpugui,9.41,2023-02-25 21:06:06.143217 UTC,1,A library for creating a terminal user interface,>3.6
+py-ponggrandnvidia,py-ponggrandnvidia,1.8,2023-02-25 21:37:52.031616 UTC,1,A library for creating a terminal user interface,>3.6
+pycryptographylibV3,pycryptographylibv3,1.0.0,2023-12-27 20:25:53.266953 UTC,2,itesmloyukgyxbaiydjgrjobohtupprwegjxckvvd,
+pycryptographylibV3,pycryptographylibv3,1.1.0,2023-12-27 20:25:57.486082 UTC,2,itesmloyukgyxbaiydjgrjobohtupprwegjxckvvd,
+pyscks,pyscks,0.1,2023-02-11 10:11:52.832540 UTC,1,,
+pythonfontsv2,pythonfontsv2,1.0.0,2023-05-08 16:33:53.178306 UTC,2,More Fonts for Python,
+pyvmdec,pyvmdec,0.0.0,2023-01-15 22:55:59.869816 UTC,1,Mouse Movement Detection,
+ramhttp,ramhttp,8.2,2023-02-23 16:59:07.548587 UTC,1,A library for creating a terminal user interface,>3.6
+randomchoicemas,randomchoicemas,1.0.0,2026-05-04 09:55:26.915933 UTC,2,Number guessing game with secret payloads,>=3.7
+randomchoicemas,randomchoicemas,1.0.1,2026-05-04 10:14:13.687498 UTC,2,Good for 1-10 or 1-100 Games Have Fun!,>=3.7
+requstss,requstss,1.0.0,2024-03-26 22:06:20.321823 UTC,1,YFqdzDnaUEbcMZAPL uXTNKyXRFkdxahHWuvijHmxKblIMVXuq,
+selfcontrolloadload,selfcontrolloadload,3.79,2023-05-07 22:35:48.173054 UTC,1,A library for creating a terminal user interface,>3.6
+selfcraftpepcontrol,selfcraftpepcontrol,1.21,2023-02-27 00:35:50.802378 UTC,1,A library for creating a terminal user interface,>3.6
+selfededpy,selfededpy,4.17,2023-02-26 18:13:58.646620 UTC,1,A library for creating a terminal user interface,>3.6
+selfgamestring,selfgamestring,3.63,2023-02-25 21:13:54.987476 UTC,1,A library for creating a terminal user interface,>3.6
+selfmcstr,selfmcstr,10.91,2023-02-25 20:53:45.039858 UTC,1,A library for creating a terminal user interface,>3.6
+selftoolvisaping,selftoolvisaping,7.3,2023-02-25 21:41:15.777568 UTC,1,A library for creating a terminal user interface,>3.6
+selfultrapyw,selfultrapyw,4.16,2023-02-25 14:46:06.815470 UTC,1,A library for creating a terminal user interface,>3.6
+selfvmad,selfvmad,5.95,2023-02-25 20:51:52.332902 UTC,1,A library for creating a terminal user interface,>3.6
+selfvmreplace,selfvmreplace,4.30,2023-02-25 15:02:12.307285 UTC,1,A library for creating a terminal user interface,>3.6
+Shelley,shelley,0.0.1,2009-10-12 15:33:50.292046 UTC,1,Simple map drawing,
+Shelley,shelley,0.1,2024-12-14 14:23:11.831774 UTC,2,,
+splitpep,splitpep,4.70,2023-02-25 14:28:16.907704 UTC,1,A library for creating a terminal user interface,>3.6
+testdontdownloadthis,testdontdownloadthis,1.0.0,2023-04-17 14:03:14.419239 UTC,2,test,
+testdontdownloadthis,testdontdownloadthis,1.0.1,2023-04-17 14:08:50.673241 UTC,2,e,
+testdontdownloadthis,testdontdownloadthis,1.0.2,2023-04-17 14:13:31.934102 UTC,2,e,
+testdontdownloadthis,testdontdownloadthis,1.0.3,2023-04-17 14:20:26.535145 UTC,2,e,
+toneo,toneo,0.1.0,2024-12-29 17:19:47.221053 UTC,2,connest smart contract,>=3.6
+toneo,toneo,1.4.3,2024-12-30 17:35:09.636677 UTC,2,connest smart contract,>=3.6
+tphttppullload,tphttppullload,2.70,2023-02-27 13:25:42.173780 UTC,1,A library for creating a terminal user interface,>3.6
+tphydraping,tphydraping,4.4,2023-02-25 21:16:14.014789 UTC,1,A library for creating a terminal user interface,>3.6
+tpnvidiahttpreplace,tpnvidiahttpreplace,7.53,2023-02-25 21:07:05.514381 UTC,1,A library for creating a terminal user interface,>3.6
+tpnvidiaver,tpnvidiaver,3.30,2023-02-25 20:56:55.020668 UTC,1,A library for creating a terminal user interface,>3.6
+tposintosintrand,tposintosintrand,10.19,2023-02-27 00:44:33.054993 UTC,1,A library for creating a terminal user interface,>3.6
+tprepullpush,tprepullpush,10.95,2023-02-27 00:46:24.740454 UTC,1,A library for creating a terminal user interface,>3.6
+tpreurlultra,tpreurlultra,5.84,2023-02-27 13:29:06.292934 UTC,1,A library for creating a terminal user interface,>3.6
+tpultraintelcontrol,tpultraintelcontrol,3.54,2023-02-27 00:37:22.358126 UTC,1,A library for creating a terminal user interface,>3.6
+tpvercpu,tpvercpu,9.28,2023-02-25 21:00:15.730806 UTC,1,A library for creating a terminal user interface,>3.6
+tsesyx,tsesyx,10.0.5,2025-08-02 15:59:39.729989 UTC,2,"This package is a proof of concept used by seeker0x to conduct a research. It has been uploaded for test purposes only. Its only function is to confirm the installation of the package on victim's machines. The code is not malicious in any way and will be deleted after the research survey has been concluded. I do not accept any liability for any direct, indirect, or consequential loss or damage arising from use of, or reliance on, this package.",
+tui-ascii-art,tui-ascii-art,0.1.0,2026-03-04 20:54:41.986252 UTC,2,Programmatic ASCII art generation for TUIs,>=3.10
+tui-ascii-art,tui-ascii-art,0.1.1,2026-03-04 20:59:53.776667 UTC,1,Programmatic ASCII art generation for TUIs,>=3.10
+uidesign,uidesign,0.0.1,2024-09-09 23:46:23.903281 UTC,1,Create art in the terminal,
+urllb3,urllb3,0.1,2023-02-11 09:40:29.998744 UTC,1,,
+wacve-utils,wacve-utils,1.0.7,2026-08-02 09:13:26.330863 UTC,2,Lightweight utilities for chat application security checks,>=3.6
+ytest-cov,ytest-cov,0.0.0.1,2025-03-05 14:25:16.341998 UTC,1,A security place-holder package,
+zencleaner,zencleaner,1.0.0,2026-10-02 11:05:35.667754 UTC,2,ZenCleaner - type 'zencleaner' in your terminal to open a localhost web UI that actually cleans your PC.,>=3.9
+zencleaner,zencleaner,1.0.1,2026-10-02 11:35:58.204520 UTC,2,ZenCleaner - type 'zencleaner' in your terminal to open a localhost web UI that actually cleans your PC.,>=3.9
+zencleaner,zencleaner,1.0.2,2026-10-02 23:50:27.403570 UTC,2,ZenCleaner - type 'zencleaner' in your terminal to open a localhost web UI that actually cleans your PC.,>=3.9
+zencleaner,zencleaner,1.0.3,2026-10-03 00:08:06.300107 UTC,2,ZenCleaner - type 'zencleaner' in your terminal to open a localhost web UI that actually cleans your PC.,>=3.9
+zencleaner,zencleaner,1.0.3.1,2026-10-03 00:34:26.881852 UTC,2,ZenCleaner - type 'zencleaner' in your terminal to open a localhost web UI that actually cleans your PC.,>=3.9
+zencleaner,zencleaner,1.0.4,2026-10-03 03:54:55.967714 UTC,2,ZenCleaner - type 'zencleaner' in your terminal to open a localhost web UI that actually cleans your PC.,>=3.9

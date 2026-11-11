@@ -1,0 +1,10 @@
+{
+  "requested_package": "requests",
+  "normalized_name": "requests",
+  "requested_version": "9999.0.0",
+  "resolution_status": "not_found",
+  "artifact_count": 0,
+  "artifacts": [],
+  "error": "Package version not available through the current PyPI JSON API.",
+  "resolved_at_utc": "2026-11-08T03:30:53.551640+00:00"
+}

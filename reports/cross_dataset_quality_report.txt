@@ -1,0 +1,28 @@
+TYPOSQUATSHIELD - CROSS-DATASET QUALITY REPORT
+=================================================================
+OpenSSF-associated records: 33945
+OpenSSF-associated unique packages: 11720
+OpenSSF-associated duplicate pairs: 0
+OpenSSF-associated invalid timestamps: 0
+OpenSSF-associated earliest upload: 2009-10-12 15:33:50.292046+00:00
+OpenSSF-associated latest upload: 2026-10-28 05:07:04.306976+00:00
+OpenSSF-associated missing summaries: 3572
+OpenSSF-associated missing requires_python: 11357
+
+Presumed legitimate records: 450220
+Presumed legitimate unique packages: 10000
+Presumed legitimate duplicate pairs: 0
+Presumed legitimate invalid timestamps: 0
+Presumed legitimate earliest upload: 2005-12-15 09:54:12+00:00
+Presumed legitimate latest upload: 2026-10-29 07:18:37.062734+00:00
+Presumed legitimate missing summaries: 17947
+Presumed legitimate missing requires_python: 144291
+
+Overlapping package names: 0
+Overlapping package-version pairs: 0
+
+LIMITATIONS:
+OpenSSF-associated does not mean confirmed malware.
+Presumed legitimate does not mean verified benign.
+Upload-time differences can introduce model bias.
+Further evidence and temporal checks are required.

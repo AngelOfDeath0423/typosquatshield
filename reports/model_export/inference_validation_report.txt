@@ -1,0 +1,19 @@
+TYPOSQUATSHIELD - INFERENCE VALIDATION REPORT
+=================================================================
+Test records: 1104
+Accuracy: 0.7717
+Precision: 0.7747
+Recall: 0.7663
+F1: 0.7705
+FP: 123 | FN: 129 | TP: 423 | TN: 429
+
+VALIDATION
+Expected confusion matrix: {'fp': 123, 'fn': 129, 'tp': 423, 'tn': 429}
+Actual confusion matrix: {'fp': 123, 'fn': 129, 'tp': 423, 'tn': 429}
+Inference reproduction: PASS
+
+LIMITATIONS
+Labels represent provisional candidate groups.
+This does not establish malware-detection accuracy.
+Historical features may not be available live.
+No independent external validation performed.

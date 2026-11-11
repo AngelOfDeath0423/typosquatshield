@@ -1,0 +1,11 @@
+﻿package_name,normalized_name,report_id_tested,version_tested,osv_report_available,osv_http_status,pypi_version_metadata_available,pypi_version_http_status,osv_error,pypi_version_error,checked_at
+discord-api,discord-api,MAL-2024-12255,1.0.1,True,200,False,404,,HTTP Error 404: Not Found,2026-10-21T06:06:37.915454+00:00
+esqnvidiavmget,esqnvidiavmget,MAL-2023-3145,,True,200,False,,,,2026-10-21T06:06:38.767327+00:00
+esqmccvvirtual,esqmccvvirtual,MAL-2023-3098,,True,200,False,,,,2026-10-21T06:06:39.669687+00:00
+selfgamestring,selfgamestring,MAL-2023-6085,,True,200,False,,,,2026-10-21T06:06:40.525632+00:00
+assulthimars,assulthimars,MAL-2024-11532,1.3.5,True,200,False,404,,HTTP Error 404: Not Found,2026-10-21T06:06:41.549856+00:00
+adcraft,adcraft,MAL-2023-2480,,True,200,False,,,,2026-10-21T06:06:42.562339+00:00
+py-cpucandyultra,py-cpucandyultra,MAL-2023-5042,,True,200,False,,,,2026-10-21T06:06:43.452416+00:00
+libsplitpush,libsplitpush,MAL-2023-4499,,True,200,False,,,,2026-10-21T06:06:44.331586+00:00
+nwin64tls,nwin64tls,MAL-2026-2432,0.0.1,True,200,False,404,,HTTP Error 404: Not Found,2026-10-21T06:06:45.374424+00:00
+asynchttpx,asynchttpx,MAL-2025-3429,0.0.2,True,200,False,404,,HTTP Error 404: Not Found,2026-10-21T06:06:46.595795+00:00

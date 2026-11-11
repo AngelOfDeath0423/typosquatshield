@@ -1,0 +1,16 @@
+TYPOSQUATSHIELD - PACKAGE-LEVEL CANDIDATE REPORT
+=================================================================
+Positive candidate records before package exclusion: 7622
+Packages excluded for conflicting/temporal evidence: 1523
+Selected positive candidate packages: 3820
+Selected presumed legitimate packages: 3820
+Total candidate records: 7640
+Random seed: 42
+
+LIMITATIONS:
+No verified binary labels assigned.
+OpenSSF evidence remains provisional.
+Absence from OpenSSF does not establish benignness.
+Earliest-version selection is provisional.
+Upload-date comparability must be evaluated.
+Only features available at assessment time may be used.

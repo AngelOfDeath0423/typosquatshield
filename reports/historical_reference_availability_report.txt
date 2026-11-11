@@ -1,0 +1,36 @@
+TYPOSQUATSHIELD - HISTORICAL REFERENCE AVAILABILITY
+=================================================================
+Candidate records: 4410
+Curated reference packages: 100
+References with observed historical evidence: 0
+References without observed evidence: 100
+
+CANDIDATE REFERENCE COVERAGE
+Candidates with zero eligible references: 4410
+Candidates without complete reference coverage: 4410
+
+ELIGIBLE REFERENCE COUNT DISTRIBUTION
+count    4410.0
+mean        0.0
+std         0.0
+min         0.0
+25%         0.0
+50%         0.0
+75%         0.0
+max         0.0
+
+HISTORICALLY SUPPORTED POTENTIAL TYPO MATCHES
+                                 sum  count
+candidate_group                            
+openssf_exact_version_candidate  0.0      0
+presumed_legitimate              0.0      0
+
+LIMITATIONS
+This audit uses only the two collected historical datasets.
+Absence from these datasets does not prove absence from PyPI.
+Observed timestamps are not verified first-publication times.
+Strictly earlier timestamps are required for eligibility.
+Reference availability is only partially established.
+Historical similarity values are diagnostic only.
+Original model features are not overwritten.
+No model training or final evaluation was performed.

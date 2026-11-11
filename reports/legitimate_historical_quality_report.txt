@@ -1,0 +1,18 @@
+TYPOSQUATSHIELD - LEGITIMATE HISTORICAL QUALITY REPORT
+=================================================================
+Export files: 20
+Historical records: 450220
+Unique packages: 10000
+Duplicate package-version pairs: 0
+Invalid timestamps: 0
+Invalid distribution counts: 0
+Missing package names: 0
+Missing versions: 0
+Missing summaries: 17947
+Missing requires_python: 144291
+
+LABEL LIMITATIONS:
+All records are presumed legitimate candidates.
+OpenSSF absence does not verify benignness.
+Historical metadata is not malware ground truth.
+No final ML training labels assigned.

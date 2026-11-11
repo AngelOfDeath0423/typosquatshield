@@ -1,0 +1,18 @@
+TYPOSQUATSHIELD - OPENSSF VERSION MATCHING
+============================================================
+Historical records: 219
+Unique packages: 100
+
+EVIDENCE STATUS COUNTS:
+explicit_version_match: 95
+range_evaluation_required: 52
+name_only_evidence: 72
+no_matching_version_evidence: 0
+
+IMPORTANT:
+Explicit version matches are candidates for verification.
+Range evaluation is not yet implemented.
+Name-only evidence is not version-level proof.
+No negative labels are assigned by this script.
+No records are marked as verified training labels.
+Historical metadata is not proof of malicious behavior.

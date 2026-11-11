@@ -1,0 +1,16 @@
+TYPOSQUATSHIELD - HISTORICAL DATA QUALITY REPORT
+============================================================
+Export files: 24
+Historical records: 33945
+Unique packages: 11720
+Duplicate package-version pairs: 0
+Invalid timestamps: 0
+Invalid distribution counts: 0
+Missing summaries: 3572
+Missing requires_python: 11357
+
+DATASET LIMITATIONS
+Historical metadata is not malware ground truth.
+Original package names may differ in capitalization.
+A package can have multiple historical versions.
+Missing metadata must not automatically imply maliciousness.

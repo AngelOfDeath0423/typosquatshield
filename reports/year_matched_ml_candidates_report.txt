@@ -1,0 +1,27 @@
+TYPOSQUATSHIELD - YEAR-MATCHED CANDIDATE REPORT
+=================================================================
+Original records: 7640
+Matched records: 4510
+OpenSSF candidates: 2255
+Presumed legitimate: 2255
+Unique packages: 4510
+Random seed: 42
+
+YEAR MATCHING:
+2017: OpenSSF available=3, legitimate available=100, selected per group=3
+2018: OpenSSF available=4, legitimate available=162, selected per group=4
+2019: OpenSSF available=4, legitimate available=203, selected per group=4
+2020: OpenSSF available=22, legitimate available=320, selected per group=22
+2021: OpenSSF available=51, legitimate available=370, selected per group=51
+2022: OpenSSF available=220, legitimate available=352, selected per group=220
+2023: OpenSSF available=1190, legitimate available=424, selected per group=424
+2024: OpenSSF available=758, legitimate available=372, selected per group=372
+2025: OpenSSF available=661, legitimate available=471, selected per group=471
+2026: OpenSSF available=907, legitimate available=684, selected per group=684
+
+LIMITATIONS:
+Year matching does not eliminate all temporal bias.
+Candidate groups are not verified ground-truth labels.
+Earliest-version selection is provisional.
+No ML model has been trained.
+Features must be restricted to assessment-time information.

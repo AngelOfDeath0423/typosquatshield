@@ -1,0 +1,18 @@
+TYPOSQUATSHIELD - REFERENCE LIST AUDIT
+============================================================
+Reference packages: 100
+ML candidates: 4510
+Exact overlaps: 0
+
+OVERLAP BY GROUP
+                                 sum  count
+candidate_group                            
+openssf_exact_version_candidate    0   2255
+presumed_legitimate                0   2255
+
+OVERLAPPING NAMES
+
+LIMITATIONS
+Exact overlap alone does not establish data leakage.
+Reference-list provenance and historical availability
+must be verified before final model evaluation.
