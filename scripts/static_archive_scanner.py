@@ -6,7 +6,7 @@ import tarfile
 import time
 import zipfile
 
-from static_feature_extractor import analyze_source, FEATURES
+from scripts.static_feature_extractor import analyze_source, FEATURES
 
 MAX_ARCHIVE_BYTES = 100 * 1024 * 1024
 MAX_SOURCE_BYTES = 2 * 1024 * 1024
@@ -281,6 +281,7 @@ def scan_archive(path):
     )
 
     return result
+
 
 
 def main():

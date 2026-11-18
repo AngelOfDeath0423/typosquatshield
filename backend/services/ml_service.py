@@ -1,4 +1,4 @@
-
+﻿
 from functools import lru_cache
 
 from scripts.model_inference import TyposquatShieldModel
@@ -51,7 +51,7 @@ def assess_with_ml(metadata, typo_result=None):
                 "Exact reference matches were excluded from ML training.",
                 "The experimental model was not applied.",
                 "Reference-list membership does not guarantee safety.",
-                "No final installation-risk advisory has been assigned.",
+                "The final rule-based advisory is generated separately.",
             ],
         }
 
@@ -83,7 +83,7 @@ def assess_with_ml(metadata, typo_result=None):
             "Model labels represent provisional candidate groups.",
             "The ML score is not a malware probability.",
             "Live metadata differs from historical training data.",
-            "The final advisory policy is not yet implemented.",
+            "Experimental ML output is supplementary to the rule-based advisory.",
         ],
     }
 

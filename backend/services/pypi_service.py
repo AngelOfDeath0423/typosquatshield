@@ -23,7 +23,7 @@ def normalize_package_name(package_name):
 
 
 def parse_upload_time(value):
-    if not value:
+    if not value or not isinstance(value, str):
         return None
 
     try:
@@ -36,17 +36,36 @@ def parse_upload_time(value):
 
         return parsed.astimezone(timezone.utc)
 
-    except (TypeError, ValueError):
+    except (TypeError, ValueError, OverflowError):
         return None
 
 
+def invalid_pypi_response():
+    raise HTTPException(
+        status_code=502,
+        detail="Invalid response structure from PyPI.",
+    )
+
+
 def extract_release_history(releases):
+    if not isinstance(releases, dict):
+        invalid_pypi_response()
+
     records = []
 
     for version, files in releases.items():
+        if not isinstance(version, str):
+            invalid_pypi_response()
+
+        if not isinstance(files, list):
+            invalid_pypi_response()
+
         timestamps = []
 
         for file_info in files:
+            if not isinstance(file_info, dict):
+                invalid_pypi_response()
+
             uploaded = parse_upload_time(
                 file_info.get("upload_time_iso_8601")
                 or file_info.get("upload_time")
@@ -58,7 +77,9 @@ def extract_release_history(releases):
         if timestamps:
             records.append({
                 "version": version,
-                "first_upload_time": min(timestamps).isoformat(),
+                "first_upload_time": min(
+                    timestamps
+                ).isoformat(),
             })
 
     records.sort(
@@ -109,18 +130,60 @@ async def fetch_pypi_metadata(package_name: str):
             detail="Invalid response from PyPI.",
         ) from exc
 
-    info = data.get("info") or {}
-    releases = data.get("releases") or {}
+    # Validate the top-level JSON response.
+    if not isinstance(data, dict):
+        invalid_pypi_response()
+
+    info = data.get("info")
+    releases = data.get("releases")
+
+    if not isinstance(info, dict):
+        invalid_pypi_response()
+
+    if not isinstance(releases, dict):
+        invalid_pypi_response()
+
+    # Validate required package information.
+    version = info.get("version")
+    package_display_name = info.get("name") or name
+
+    if not isinstance(version, str) or not version.strip():
+        invalid_pypi_response()
+
+    if not isinstance(package_display_name, str):
+        invalid_pypi_response()
+
+    # Validate optional metadata.
+    summary = info.get("summary") or ""
+    requires_python = info.get("requires_python")
+    license_value = info.get("license")
+    project_urls = info.get("project_urls") or {}
+
+    if not isinstance(summary, str):
+        invalid_pypi_response()
+
+    if requires_python is not None and not isinstance(
+        requires_python, str
+    ):
+        invalid_pypi_response()
+
+    if license_value is not None and not isinstance(
+        license_value, (str, dict)
+    ):
+        invalid_pypi_response()
+
+    if not isinstance(project_urls, dict):
+        invalid_pypi_response()
 
     release_history = extract_release_history(releases)
 
     return {
-        "package_name": info.get("name") or name,
-        "version": info.get("version"),
-        "summary": info.get("summary") or "",
-        "requires_python": info.get("requires_python"),
-        "license": info.get("license"),
-        "project_urls": info.get("project_urls") or {},
+        "package_name": package_display_name,
+        "version": version,
+        "summary": summary,
+        "requires_python": requires_python,
+        "license": license_value,
+        "project_urls": project_urls,
         "release_count": len(releases),
         "release_history": release_history,
         "release_history_coverage": (

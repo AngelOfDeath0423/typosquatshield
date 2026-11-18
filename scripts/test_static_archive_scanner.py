@@ -20,7 +20,7 @@ import tempfile
 import zipfile
 import io
 
-from static_archive_scanner import (
+from scripts.static_archive_scanner import (
     scan_archive,
     MAX_SOURCE_BYTES,
 )

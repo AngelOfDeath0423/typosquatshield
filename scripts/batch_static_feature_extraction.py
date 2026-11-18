@@ -13,9 +13,8 @@ import time
 
 import pandas as pd
 
-from static_archive_scanner import scan_archive
-from static_feature_extractor import FEATURES
-
+from scripts.static_archive_scanner import scan_archive
+from scripts.static_feature_extractor import FEATURES
 
 BASE = Path(__file__).resolve().parent.parent
 

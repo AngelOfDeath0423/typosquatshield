@@ -1,0 +1,38 @@
+
+services:
+  api:
+    image: typosquatshield:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      TPS_DATABASE_PATH: /app/data/runtime/typosquatshield.db
+    volumes:
+      - typosquatshield-data:/app/data/runtime
+    restart: unless-stopped
+
+  dashboard:
+    image: typosquatshield:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command:
+      - streamlit
+      - run
+      - dashboard/app.py
+      - --server.address=0.0.0.0
+      - --server.port=8501
+      - --server.headless=true
+    ports:
+      - "8501:8501"
+    environment:
+      TPS_API_URL: http://api:8000
+    depends_on:
+      - api
+    restart: unless-stopped
+
+volumes:
+  typosquatshield-data:
+    external: true

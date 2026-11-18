@@ -1,4 +1,31 @@
+
+# TyposquatShield - Python dependencies
+
+# Backend API
+fastapi==0.162.2
+uvicorn==0.54.0
+pydantic==2.14.3
+
+# Dashboard
+streamlit==1.67.0
+
+# CLI and HTTP communication
+httpx==0.28.1
+rich==14.3.4
+
+# Machine learning and feature processing
+numpy==2.4.6
 pandas==3.0.6
+scikit-learn==1.9.1
+joblib==1.6.0
+rapidfuzz==3.14.6
 packaging==26.3
+
+# Data analysis and visualization
 matplotlib==3.11.2
 seaborn==0.13.2
+
+# Automated testing
+pytest==9.2.0
+
+psycopg[binary]>=3.2,<4

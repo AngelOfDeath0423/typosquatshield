@@ -36,3 +36,6 @@ data/legitimate/historical_batches/
 data/full/historical_metadata_consolidated.csv
 data/legitimate/legitimate_historical_consolidated.csv
 data/legitimate/bigquery_legitimate_candidate_pool.csv
+
+# Local assessment history
+data/runtime/

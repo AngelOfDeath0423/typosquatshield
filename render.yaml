@@ -1,0 +1,37 @@
+
+services:
+  - type: web
+    name: typosquatshield-api
+    runtime: docker
+    plan: starter
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /health
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: typosquatshield-db
+          property: connectionString
+
+  - type: web
+    name: typosquatshield-dashboard
+    runtime: docker
+    plan: starter
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    dockerCommand: >-
+      sh -c 'streamlit run dashboard/app.py
+      --server.address=0.0.0.0
+      --server.port=${PORT:-10000}
+      --server.headless=true
+      --browser.gatherUsageStats=false'
+    envVars:
+      - key: TPS_API_URL
+        value: https://typosquatshield-api.onrender.com
+
+
+databases:
+  - name: typosquatshield-db
+    plan: basic-256mb
+    databaseName: typosquatshield
+    user: typosquatshield
