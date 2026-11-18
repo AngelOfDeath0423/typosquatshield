@@ -1,8 +1,10 @@
 
 import argparse
+import os
 import re
 import subprocess
 import sys
+
 
 import httpx
 from packaging.utils import canonicalize_name
@@ -13,7 +15,10 @@ from rich.prompt import Confirm
 from rich.table import Table
 from rich.text import Text
 
-DEFAULT_API_URL = "http://127.0.0.1:8000"
+DEFAULT_API_URL = os.getenv(
+    "TPS_API_URL",
+    "https://typosquatshield.onrender.com",
+)
 
 console = Console()
 
@@ -443,6 +448,8 @@ def main():
         help="Disable the optional pip installation prompt",
     )
 
+    
+
     parser.add_argument(
     "--pypi",
     action="store_true",
@@ -468,7 +475,7 @@ def main():
             "pypi" if args.pypi else "auto"
         ),
     },
-    timeout=30.0,
+    timeout=120.0,
 )
 
         response.raise_for_status()
@@ -509,10 +516,10 @@ def main():
     display_assessment(result)
 
     return offer_installation(
-        result=result,
-        requested_name=args.package_name.strip(),
-        no_install=args.no_install,
-    )
+    result=result,
+    requested_name=args.package_name.strip(),
+    no_install=args.no_install,
+)
 
 
 if __name__ == "__main__":

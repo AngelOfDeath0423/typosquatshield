@@ -39,3 +39,17 @@ data/legitimate/bigquery_legitimate_candidate_pool.csv
 
 # Local assessment history
 data/runtime/
+
+# Python virtual environments
+.venv/
+.venv-*/
+venv/
+
+# Python packaging artifacts
+dist/
+build/
+*.egg-info/
+
+# Local development files
+installed_packages_snapshot.txt
+data/audit/stdlib_name_matches.csv
