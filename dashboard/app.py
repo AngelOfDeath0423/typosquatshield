@@ -10,10 +10,15 @@ import streamlit as st
 # --------------------------------------------------
 
 LOGO_PATH = Path(__file__).parent / "assets" / "logo.png"
-API_BASE_URL = os.getenv(
-    "TPS_API_URL",
-    "http://127.0.0.1:8000",
-).rstrip("/")
+API_BASE_URL = os.getenv("TPS_API_URL")
+
+if not API_BASE_URL:
+    API_BASE_URL = st.secrets.get(
+        "TPS_API_URL",
+        "http://127.0.0.1:8000",
+    )
+
+API_BASE_URL = API_BASE_URL.rstrip("/")
 
 API_URL = f"{API_BASE_URL}/assess"
 
